@@ -1,0 +1,11 @@
+customer_id,customer_name,product,rating,feedback,date
+1,John Smith,Wireless Mouse,5,Excellent product very responsive,2024-01-15
+2,Sarah Johnson,Keyboard,4,Good quality but slightly noisy keys,2024-01-18
+3,Michael Brown,Monitor,3,Average display expected better brightness,2024-01-20
+4,Emily Davis,Laptop Stand,5,Very sturdy and well built,2024-01-22
+5,David Wilson,USB-C Hub,2,Stopped working after two weeks,2024-01-25
+6,Jessica Miller,Webcam,4,Clear video but mic could be better,2024-01-28
+7,Daniel Taylor,Headphones,5,Great sound quality and comfortable,2024-02-01
+8,Olivia Anderson,External Hard Drive,3,Works fine but gets warm quickly,2024-02-03
+9,James Thomas,Bluetooth Speaker,4,Loud and portable good battery life,2024-02-05
+10,Sophia Martinez,Smartphone Case,5,Perfect fit and durable material,2024-02-08
