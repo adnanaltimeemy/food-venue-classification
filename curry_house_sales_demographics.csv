@@ -1,0 +1,1001 @@
+Date,Branch,Sales_£,COGS_£,Profit_£,Profit_Margin_%,Customer_Gender,Customer_Age_Group
+2025-01-01,Curry House West End,1349.01,607.38,741.63,55.0,Male,36–45
+2025-01-02,Curry House Shoreditch,1158.52,499.75,658.77,56.9,Male,36–45
+2025-01-03,Curry House Central,1394.31,823.94,570.37,40.9,Male,18–25
+2025-01-04,Curry House West End,1656.91,1013.93,642.98,38.8,Male,36–45
+2025-01-05,Curry House Shoreditch,1129.75,462.61,667.14,59.1,Female,26–35
+2025-01-06,Curry House Central,1129.76,769.21,360.55,31.9,Male,36–45
+2025-01-07,Curry House Central,1673.76,695.6,978.16,58.4,Male,56+
+2025-01-08,Curry House Central,1430.23,804.35,625.88,43.8,Female,36–45
+2025-01-09,Curry House West End,1059.16,648.97,410.19,38.7,Female,26–35
+2025-01-10,Curry House West End,1362.77,901.19,461.58,33.9,Male,18–25
+2025-01-11,Curry House Shoreditch,1060.97,651.68,409.29,38.6,Female,46–55
+2025-01-12,Curry House West End,1060.28,679.13,381.15,35.9,Male,36–45
+2025-01-13,Curry House West End,1272.59,638.63,633.96,49.8,Female,26–35
+2025-01-14,Curry House Central,626.02,403.44,222.58,35.6,Female,46–55
+2025-01-15,Curry House Central,682.52,289.41,393.11,57.6,Male,46–55
+2025-01-16,Curry House Central,1031.31,689.37,341.94,33.2,Female,56+
+2025-01-17,Curry House Central,896.15,505.68,390.47,43.6,Male,46–55
+2025-01-18,Curry House Central,1294.27,835.05,459.22,35.5,Female,26–35
+2025-01-19,Curry House Central,927.59,496.91,430.68,46.4,Male,26–35
+2025-01-20,Curry House Central,776.31,460.41,315.9,40.7,Female,36–45
+2025-01-21,Curry House Shoreditch,1639.69,914.82,724.87,44.2,Female,36–45
+2025-01-22,Curry House Shoreditch,1132.27,701.42,430.85,38.1,Female,36–45
+2025-01-23,Curry House Shoreditch,1220.26,517.99,702.27,57.6,Male,46–55
+2025-01-24,Curry House Shoreditch,772.58,323.02,449.56,58.2,Female,46–55
+2025-01-25,Curry House Central,1036.69,491.53,545.16,52.6,Female,56+
+2025-01-26,Curry House Shoreditch,1233.28,552.34,680.94,55.2,Female,36–45
+2025-01-27,Curry House Central,854.7,565.41,289.29,33.8,Female,18–25
+2025-01-28,Curry House Shoreditch,1312.71,611.41,701.3,53.4,Female,56+
+2025-01-29,Curry House West End,1019.81,706.48,313.33,30.7,Male,18–25
+2025-01-30,Curry House Shoreditch,1112.49,557.43,555.06,49.9,Male,46–55
+2025-01-31,Curry House Shoreditch,1019.49,463.5,555.99,54.5,Female,56+
+2025-02-01,Curry House Central,1755.68,1118.21,637.47,36.3,Male,56+
+2025-02-02,Curry House Shoreditch,1195.95,714.71,481.24,40.2,Other,26–35
+2025-02-03,Curry House West End,882.69,485.0,397.69,45.1,Female,46–55
+2025-02-04,Curry House Central,1446.76,819.75,627.01,43.3,Female,46–55
+2025-02-05,Curry House Central,833.75,513.39,320.36,38.4,Male,56+
+2025-02-06,Curry House Shoreditch,1262.66,591.6,671.06,53.1,Female,46–55
+2025-02-07,Curry House Central,612.1,427.8,184.3,30.1,Female,56+
+2025-02-08,Curry House Central,801.54,555.02,246.52,30.8,Female,26–35
+2025-02-09,Curry House Central,1259.06,749.26,509.8,40.5,Female,56+
+2025-02-10,Curry House Central,1421.54,653.71,767.83,54.0,Male,46–55
+2025-02-11,Curry House Central,1251.41,755.94,495.47,39.6,Female,46–55
+2025-02-12,Curry House Central,1165.31,491.36,673.95,57.8,Female,56+
+2025-02-13,Curry House West End,1109.67,454.07,655.6,59.1,Male,56+
+2025-02-14,Curry House Shoreditch,756.44,361.05,395.39,52.3,Male,56+
+2025-02-15,Curry House West End,984.05,530.19,453.86,46.1,Female,36–45
+2025-02-16,Curry House Central,1061.81,701.31,360.5,34.0,Female,46–55
+2025-02-17,Curry House Central,1517.14,937.82,579.32,38.2,Other,46–55
+2025-02-18,Curry House Shoreditch,1303.09,811.58,491.51,37.7,Female,36–45
+2025-02-19,Curry House West End,671.09,354.1,316.99,47.2,Male,56+
+2025-02-20,Curry House Shoreditch,1297.23,653.52,643.71,49.6,Male,26–35
+2025-02-21,Curry House West End,1084.48,554.51,529.97,48.9,Male,56+
+2025-02-22,Curry House Central,996.92,694.15,302.77,30.4,Male,56+
+2025-02-23,Curry House Shoreditch,1383.5,570.05,813.45,58.8,Male,36–45
+2025-02-24,Curry House Shoreditch,1509.3,996.3,513.0,34.0,Male,46–55
+2025-02-25,Curry House Central,1479.38,848.58,630.8,42.6,Male,56+
+2025-02-26,Curry House Shoreditch,948.23,504.06,444.17,46.8,Female,46–55
+2025-02-27,Curry House West End,1107.24,683.81,423.43,38.2,Male,18–25
+2025-02-28,Curry House West End,1299.38,709.46,589.92,45.4,Female,46–55
+2025-03-01,Curry House West End,1492.66,988.18,504.48,33.8,Female,26–35
+2025-03-02,Curry House West End,1056.25,707.91,348.34,33.0,Male,26–35
+2025-03-03,Curry House Central,1144.3,602.49,541.81,47.3,Male,56+
+2025-03-04,Curry House Shoreditch,868.1,419.33,448.77,51.7,Male,46–55
+2025-03-05,Curry House West End,841.14,485.93,355.21,42.2,Male,56+
+2025-03-06,Curry House Central,1443.76,972.67,471.09,32.6,Female,36–45
+2025-03-07,Curry House Shoreditch,1606.87,744.3,862.57,53.7,Male,26–35
+2025-03-08,Curry House Shoreditch,1178.4,691.59,486.81,41.3,Male,56+
+2025-03-09,Curry House Central,1501.06,884.83,616.23,41.1,Male,36–45
+2025-03-10,Curry House Central,1308.49,811.18,497.31,38.0,Other,56+
+2025-03-11,Curry House West End,1006.46,442.31,564.15,56.1,Female,46–55
+2025-03-12,Curry House Shoreditch,1308.42,804.35,504.07,38.5,Female,46–55
+2025-03-13,Curry House Shoreditch,1661.41,1117.65,543.76,32.7,Male,46–55
+2025-03-14,Curry House Central,1189.25,539.81,649.44,54.6,Female,46–55
+2025-03-15,Curry House Shoreditch,1669.39,786.72,882.67,52.9,Female,18–25
+2025-03-16,Curry House West End,414.08,286.3,127.78,30.9,Female,36–45
+2025-03-17,Curry House Shoreditch,1446.57,657.17,789.4,54.6,Other,36–45
+2025-03-18,Curry House Central,1226.11,804.72,421.39,34.4,Male,46–55
+2025-03-19,Curry House Central,1110.3,608.09,502.21,45.2,Female,18–25
+2025-03-20,Curry House West End,1227.53,582.06,645.47,52.6,Female,46–55
+2025-03-21,Curry House West End,603.73,399.2,204.53,33.9,Male,18–25
+2025-03-22,Curry House Shoreditch,1134.1,605.15,528.95,46.6,Male,46–55
+2025-03-23,Curry House Shoreditch,1307.13,724.73,582.4,44.6,Other,26–35
+2025-03-24,Curry House Central,1643.37,834.45,808.92,49.2,Male,26–35
+2025-03-25,Curry House West End,1044.52,603.61,440.91,42.2,Female,56+
+2025-03-26,Curry House West End,957.45,429.95,527.5,55.1,Other,46–55
+2025-03-27,Curry House West End,1049.47,542.92,506.55,48.3,Female,36–45
+2025-03-28,Curry House Shoreditch,1474.62,1018.7,455.92,30.9,Male,56+
+2025-03-29,Curry House West End,1298.63,620.02,678.61,52.3,Female,26–35
+2025-03-30,Curry House Central,1041.07,621.54,419.53,40.3,Male,46–55
+2025-03-31,Curry House Central,1353.98,673.68,680.3,50.2,Female,56+
+2025-04-01,Curry House Shoreditch,1229.12,776.86,452.26,36.8,Male,46–55
+2025-04-02,Curry House Shoreditch,1490.59,654.76,835.83,56.1,Female,26–35
+2025-04-03,Curry House West End,989.38,683.61,305.77,30.9,Female,56+
+2025-04-04,Curry House Shoreditch,1101.7,590.66,511.04,46.4,Female,26–35
+2025-04-05,Curry House Central,1082.37,509.6,572.77,52.9,Female,18–25
+2025-04-06,Curry House West End,760.95,321.16,439.79,57.8,Female,26–35
+2025-04-07,Curry House Central,1288.84,581.17,707.67,54.9,Female,46–55
+2025-04-08,Curry House West End,1278.32,710.66,567.66,44.4,Male,36–45
+2025-04-09,Curry House Shoreditch,1201.53,602.09,599.44,49.9,Female,26–35
+2025-04-10,Curry House West End,1129.62,732.74,396.88,35.1,Male,36–45
+2025-04-11,Curry House West End,775.39,410.39,365.0,47.1,Female,18–25
+2025-04-12,Curry House Central,1073.81,509.65,564.16,52.5,Male,56+
+2025-04-13,Curry House Central,1097.19,642.01,455.18,41.5,Male,56+
+2025-04-14,Curry House West End,959.32,587.14,372.18,38.8,Female,36–45
+2025-04-15,Curry House Shoreditch,1151.61,518.35,633.26,55.0,Male,56+
+2025-04-16,Curry House Shoreditch,1321.22,594.93,726.29,55.0,Male,26–35
+2025-04-17,Curry House Central,1765.86,725.77,1040.09,58.9,Female,36–45
+2025-04-18,Curry House Shoreditch,1252.37,777.62,474.75,37.9,Female,46–55
+2025-04-19,Curry House Central,1277.27,765.27,512.0,40.1,Female,26–35
+2025-04-20,Curry House Shoreditch,1177.67,638.76,538.91,45.8,Male,26–35
+2025-04-21,Curry House West End,624.37,407.87,216.5,34.7,Female,26–35
+2025-04-22,Curry House Central,1192.05,764.94,427.11,35.8,Male,46–55
+2025-04-23,Curry House Central,1218.07,701.13,516.94,42.4,Female,18–25
+2025-04-24,Curry House West End,1938.97,1280.65,658.32,34.0,Female,56+
+2025-04-25,Curry House Central,1142.29,527.46,614.83,53.8,Female,36–45
+2025-04-26,Curry House Shoreditch,1290.46,559.51,730.95,56.6,Male,18–25
+2025-04-27,Curry House Shoreditch,1189.59,572.1,617.49,51.9,Male,36–45
+2025-04-28,Curry House Central,849.4,354.31,495.09,58.3,Male,56+
+2025-04-29,Curry House Shoreditch,1542.85,862.99,679.86,44.1,Male,46–55
+2025-04-30,Curry House Central,1425.58,970.79,454.79,31.9,Male,26–35
+2025-05-01,Curry House West End,1437.31,591.89,845.42,58.8,Female,26–35
+2025-05-02,Curry House Central,927.18,404.84,522.34,56.3,Male,46–55
+2025-05-03,Curry House West End,1620.84,868.22,752.62,46.4,Female,18–25
+2025-05-04,Curry House Shoreditch,779.44,530.15,249.29,32.0,Male,18–25
+2025-05-05,Curry House West End,1376.06,680.94,695.12,50.5,Female,36–45
+2025-05-06,Curry House Shoreditch,1857.14,1025.46,831.68,44.8,Female,46–55
+2025-05-07,Curry House Central,902.84,372.4,530.44,58.8,Male,18–25
+2025-05-08,Curry House Shoreditch,1030.11,457.89,572.22,55.5,Male,46–55
+2025-05-09,Curry House Central,1229.9,856.0,373.9,30.4,Female,56+
+2025-05-10,Curry House Central,1048.96,723.3,325.66,31.0,Male,26–35
+2025-05-11,Curry House West End,734.8,295.01,439.79,59.9,Female,26–35
+2025-05-12,Curry House West End,1220.57,836.75,383.82,31.4,Female,26–35
+2025-05-13,Curry House West End,881.31,521.5,359.81,40.8,Female,46–55
+2025-05-14,Curry House West End,1342.08,886.28,455.8,34.0,Male,46–55
+2025-05-15,Curry House Shoreditch,924.17,495.75,428.42,46.4,Female,36–45
+2025-05-16,Curry House Shoreditch,1664.98,923.53,741.45,44.5,Female,26–35
+2025-05-17,Curry House Shoreditch,965.02,527.53,437.49,45.3,Female,36–45
+2025-05-18,Curry House Central,1103.38,662.09,441.29,40.0,Male,26–35
+2025-05-19,Curry House Shoreditch,1444.06,638.12,805.94,55.8,Female,36–45
+2025-05-20,Curry House Shoreditch,830.74,339.77,490.97,59.1,Female,36–45
+2025-05-21,Curry House Shoreditch,1268.24,624.45,643.79,50.8,Female,56+
+2025-05-22,Curry House West End,1592.14,973.44,618.7,38.9,Male,36–45
+2025-05-23,Curry House Shoreditch,717.76,330.57,387.19,53.9,Female,46–55
+2025-05-24,Curry House Central,1255.39,755.78,499.61,39.8,Male,36–45
+2025-05-25,Curry House West End,1277.96,883.04,394.92,30.9,Female,26–35
+2025-05-26,Curry House Central,1434.55,614.23,820.32,57.2,Female,36–45
+2025-05-27,Curry House Shoreditch,828.91,498.82,330.09,39.8,Female,18–25
+2025-05-28,Curry House West End,803.86,428.56,375.3,46.7,Female,26–35
+2025-05-29,Curry House Central,1356.58,895.94,460.64,34.0,Male,18–25
+2025-05-30,Curry House Shoreditch,1289.1,584.15,704.95,54.7,Other,26–35
+2025-05-31,Curry House Central,1275.15,775.02,500.13,39.2,Male,46–55
+2025-06-01,Curry House Central,1303.93,849.43,454.5,34.9,Female,46–55
+2025-06-02,Curry House Central,995.99,680.64,315.35,31.7,Female,46–55
+2025-06-03,Curry House Shoreditch,1269.68,768.12,501.56,39.5,Female,18–25
+2025-06-04,Curry House Shoreditch,1287.92,707.26,580.66,45.1,Male,56+
+2025-06-05,Curry House Central,985.69,576.98,408.71,41.5,Female,26–35
+2025-06-06,Curry House West End,1759.73,1162.6,597.13,33.9,Female,46–55
+2025-06-07,Curry House West End,1342.15,766.61,575.54,42.9,Male,26–35
+2025-06-08,Curry House Shoreditch,842.61,344.73,497.88,59.1,Female,18–25
+2025-06-09,Curry House Shoreditch,1396.97,948.94,448.03,32.1,Male,56+
+2025-06-10,Curry House Shoreditch,907.6,550.78,356.82,39.3,Male,18–25
+2025-06-11,Curry House Shoreditch,1436.13,865.92,570.21,39.7,Male,26–35
+2025-06-12,Curry House Shoreditch,1547.58,719.16,828.42,53.5,Male,56+
+2025-06-13,Curry House West End,953.8,570.05,383.75,40.2,Female,56+
+2025-06-14,Curry House Shoreditch,1489.01,771.54,717.47,48.2,Male,18–25
+2025-06-15,Curry House Central,1323.83,788.17,535.66,40.5,Male,46–55
+2025-06-16,Curry House Central,1446.62,624.91,821.71,56.8,Male,26–35
+2025-06-17,Curry House West End,1769.04,1056.74,712.3,40.3,Female,36–45
+2025-06-18,Curry House Central,1126.38,788.27,338.11,30.0,Female,36–45
+2025-06-19,Curry House West End,973.88,403.64,570.24,58.6,Male,18–25
+2025-06-20,Curry House West End,933.15,646.82,286.33,30.7,Male,26–35
+2025-06-21,Curry House Central,955.26,498.71,456.55,47.8,Female,26–35
+2025-06-22,Curry House Shoreditch,1176.87,778.18,398.69,33.9,Male,18–25
+2025-06-23,Curry House Central,1302.35,826.62,475.73,36.5,Female,26–35
+2025-06-24,Curry House Central,1283.01,731.45,551.56,43.0,Male,46–55
+2025-06-25,Curry House West End,1448.15,900.08,548.07,37.8,Female,18–25
+2025-06-26,Curry House Central,1203.9,798.85,405.05,33.6,Male,46–55
+2025-06-27,Curry House West End,1636.06,852.78,783.28,47.9,Female,26–35
+2025-06-28,Curry House Shoreditch,1120.6,558.18,562.42,50.2,Male,18–25
+2025-06-29,Curry House Shoreditch,2016.05,1210.19,805.86,40.0,Other,26–35
+2025-06-30,Curry House Shoreditch,1387.7,891.39,496.31,35.8,Male,18–25
+2025-07-01,Curry House Central,942.85,592.76,350.09,37.1,Female,26–35
+2025-07-02,Curry House West End,878.73,561.81,316.92,36.1,Male,46–55
+2025-07-03,Curry House Shoreditch,1344.74,713.62,631.12,46.9,Male,46–55
+2025-07-04,Curry House West End,1132.96,731.16,401.8,35.5,Female,26–35
+2025-07-05,Curry House West End,1414.2,616.68,797.52,56.4,Male,18–25
+2025-07-06,Curry House Shoreditch,1341.97,755.99,585.98,43.7,Female,36–45
+2025-07-07,Curry House Shoreditch,1178.15,473.3,704.85,59.8,Female,46–55
+2025-07-08,Curry House West End,945.96,470.5,475.46,50.3,Female,46–55
+2025-07-09,Curry House Shoreditch,745.55,380.18,365.37,49.0,Male,36–45
+2025-07-10,Curry House West End,1066.05,553.12,512.93,48.1,Female,26–35
+2025-07-11,Curry House West End,1456.92,886.74,570.18,39.1,Male,18–25
+2025-07-12,Curry House Shoreditch,1264.23,653.06,611.17,48.3,Female,26–35
+2025-07-13,Curry House Central,826.28,441.74,384.54,46.5,Female,56+
+2025-07-14,Curry House Shoreditch,1251.95,590.0,661.95,52.9,Female,46–55
+2025-07-15,Curry House Central,1315.6,673.56,642.04,48.8,Female,56+
+2025-07-16,Curry House West End,934.84,437.67,497.17,53.2,Female,46–55
+2025-07-17,Curry House West End,1246.12,525.81,720.31,57.8,Male,46–55
+2025-07-18,Curry House Central,1217.46,707.39,510.07,41.9,Female,56+
+2025-07-19,Curry House West End,857.11,514.66,342.45,40.0,Male,56+
+2025-07-20,Curry House Central,1307.34,765.9,541.44,41.4,Female,26–35
+2025-07-21,Curry House Central,1368.24,737.55,630.69,46.1,Female,56+
+2025-07-22,Curry House West End,1524.92,783.71,741.21,48.6,Female,26–35
+2025-07-23,Curry House Central,1516.14,999.14,517.0,34.1,Male,26–35
+2025-07-24,Curry House Shoreditch,786.7,437.19,349.51,44.4,Female,26–35
+2025-07-25,Curry House Shoreditch,918.65,499.52,419.13,45.6,Male,46–55
+2025-07-26,Curry House West End,1354.51,552.22,802.29,59.2,Male,46–55
+2025-07-27,Curry House West End,1354.14,680.29,673.85,49.8,Male,56+
+2025-07-28,Curry House Central,1354.51,696.3,658.21,48.6,Male,46–55
+2025-07-29,Curry House Central,2355.82,1224.19,1131.63,48.0,Male,56+
+2025-07-30,Curry House Central,1371.27,787.18,584.09,42.6,Female,46–55
+2025-07-31,Curry House Central,1540.67,862.9,677.77,44.0,Male,18–25
+2025-08-01,Curry House Shoreditch,1486.2,865.52,620.68,41.8,Male,18–25
+2025-08-02,Curry House Shoreditch,1395.42,878.37,517.05,37.1,Female,56+
+2025-08-03,Curry House West End,1105.42,711.78,393.64,35.6,Male,46–55
+2025-08-04,Curry House Central,1427.69,878.65,549.04,38.5,Female,46–55
+2025-08-05,Curry House Central,968.15,664.79,303.36,31.3,Female,26–35
+2025-08-06,Curry House West End,1128.95,457.76,671.19,59.5,Female,36–45
+2025-08-07,Curry House Central,1054.39,483.68,570.71,54.1,Female,56+
+2025-08-08,Curry House Central,1224.56,492.6,731.96,59.8,Female,36–45
+2025-08-09,Curry House Central,1894.4,1125.73,768.67,40.6,Female,36–45
+2025-08-10,Curry House Central,639.82,428.3,211.52,33.1,Male,56+
+2025-08-11,Curry House Central,1405.88,665.04,740.84,52.7,Female,46–55
+2025-08-12,Curry House West End,716.19,485.66,230.53,32.2,Male,56+
+2025-08-13,Curry House Central,1058.42,442.5,615.92,58.2,Female,36–45
+2025-08-14,Curry House West End,1526.69,1038.65,488.04,32.0,Male,46–55
+2025-08-15,Curry House Central,1219.28,616.33,602.95,49.5,Female,18–25
+2025-08-16,Curry House Shoreditch,876.68,377.35,499.33,57.0,Male,56+
+2025-08-17,Curry House Shoreditch,985.41,537.8,447.61,45.4,Female,56+
+2025-08-18,Curry House Shoreditch,1403.88,669.7,734.18,52.3,Male,46–55
+2025-08-19,Curry House Shoreditch,980.89,476.18,504.71,51.5,Female,18–25
+2025-08-20,Curry House West End,1264.94,622.59,642.35,50.8,Female,18–25
+2025-08-21,Curry House West End,1213.67,777.85,435.82,35.9,Male,46–55
+2025-08-22,Curry House Central,1004.52,564.29,440.23,43.8,Female,26–35
+2025-08-23,Curry House Shoreditch,1843.18,909.41,933.77,50.7,Female,56+
+2025-08-24,Curry House West End,1390.18,810.61,579.57,41.7,Female,56+
+2025-08-25,Curry House Central,592.46,364.27,228.19,38.5,Male,36–45
+2025-08-26,Curry House Central,1255.94,605.1,650.84,51.8,Male,46–55
+2025-08-27,Curry House West End,1001.46,524.83,476.63,47.6,Male,36–45
+2025-08-28,Curry House Shoreditch,1455.73,635.52,820.21,56.3,Male,36–45
+2025-08-29,Curry House Central,962.24,437.19,525.05,54.6,Female,18–25
+2025-08-30,Curry House Shoreditch,1165.58,704.4,461.18,39.6,Male,56+
+2025-08-31,Curry House Shoreditch,1351.5,614.16,737.34,54.6,Female,36–45
+2025-09-01,Curry House Shoreditch,1459.73,813.87,645.86,44.2,Male,18–25
+2025-09-02,Curry House Central,839.91,514.62,325.29,38.7,Female,46–55
+2025-09-03,Curry House Shoreditch,1099.65,475.12,624.53,56.8,Female,36–45
+2025-09-04,Curry House Central,1057.52,602.99,454.53,43.0,Female,56+
+2025-09-05,Curry House Shoreditch,1004.0,478.88,525.12,52.3,Male,36–45
+2025-09-06,Curry House Central,1729.64,1191.51,538.13,31.1,Male,46–55
+2025-09-07,Curry House Shoreditch,1321.49,720.3,601.19,45.5,Male,36–45
+2025-09-08,Curry House West End,821.73,527.38,294.35,35.8,Male,56+
+2025-09-09,Curry House Shoreditch,1475.36,833.68,641.68,43.5,Male,18–25
+2025-09-10,Curry House Shoreditch,1836.65,758.58,1078.07,58.7,Male,56+
+2025-09-11,Curry House Central,1509.74,890.66,619.08,41.0,Male,18–25
+2025-09-12,Curry House Central,744.19,510.08,234.11,31.5,Female,26–35
+2025-09-13,Curry House Shoreditch,1054.73,612.25,442.48,42.0,Male,56+
+2025-09-14,Curry House West End,1580.07,1020.34,559.73,35.4,Female,56+
+2025-09-15,Curry House West End,987.7,657.08,330.62,33.5,Male,46–55
+2025-09-16,Curry House Central,1333.15,624.48,708.67,53.2,Female,36–45
+2025-09-17,Curry House West End,1432.39,664.08,768.31,53.6,Female,18–25
+2025-09-18,Curry House Shoreditch,921.92,537.75,384.17,41.7,Female,18–25
+2025-09-19,Curry House Central,1182.14,618.62,563.52,47.7,Female,46–55
+2025-09-20,Curry House Shoreditch,227.62,148.4,79.22,34.8,Male,46–55
+2025-09-21,Curry House Central,892.68,598.1,294.58,33.0,Female,36–45
+2025-09-22,Curry House Central,1124.23,568.89,555.34,49.4,Male,36–45
+2025-09-23,Curry House Central,825.67,388.94,436.73,52.9,Male,56+
+2025-09-24,Curry House Central,1689.72,1071.55,618.17,36.6,Female,26–35
+2025-09-25,Curry House West End,770.96,371.94,399.02,51.8,Female,36–45
+2025-09-26,Curry House Shoreditch,1067.99,690.76,377.23,35.3,Male,46–55
+2025-09-27,Curry House Shoreditch,1239.22,653.22,586.0,47.3,Female,36–45
+2025-09-28,Curry House Shoreditch,1632.38,979.86,652.52,40.0,Female,18–25
+2025-09-29,Curry House Central,769.24,329.74,439.5,57.1,Male,26–35
+2025-09-30,Curry House West End,1548.95,909.48,639.47,41.3,Male,56+
+2025-10-01,Curry House Shoreditch,1203.07,644.28,558.79,46.4,Male,18–25
+2025-10-02,Curry House West End,905.55,521.58,383.97,42.4,Male,18–25
+2025-10-03,Curry House Central,1338.63,602.92,735.71,55.0,Male,26–35
+2025-10-04,Curry House Shoreditch,1259.72,782.36,477.36,37.9,Male,56+
+2025-10-05,Curry House West End,1019.93,671.97,347.96,34.1,Male,46–55
+2025-10-06,Curry House Central,1220.94,567.76,653.18,53.5,Female,56+
+2025-10-07,Curry House West End,1084.41,464.9,619.51,57.1,Female,36–45
+2025-10-08,Curry House Shoreditch,1234.06,502.38,731.68,59.3,Other,18–25
+2025-10-09,Curry House Shoreditch,1398.64,828.82,569.82,40.7,Male,36–45
+2025-10-10,Curry House Central,1675.81,975.54,700.27,41.8,Female,46–55
+2025-10-11,Curry House Central,828.66,467.37,361.29,43.6,Female,36–45
+2025-10-12,Curry House Central,1839.91,863.99,975.92,53.0,Female,56+
+2025-10-13,Curry House West End,614.37,317.8,296.57,48.3,Male,36–45
+2025-10-14,Curry House West End,1154.46,667.67,486.79,42.2,Female,46–55
+2025-10-15,Curry House West End,1376.5,755.74,620.76,45.1,Male,46–55
+2025-10-16,Curry House Central,1284.3,894.3,390.0,30.4,Male,46–55
+2025-10-17,Curry House Shoreditch,1013.19,446.75,566.44,55.9,Female,56+
+2025-10-18,Curry House Shoreditch,1137.56,692.25,445.31,39.1,Female,46–55
+2025-10-19,Curry House West End,1052.1,548.46,503.64,47.9,Male,18–25
+2025-10-20,Curry House West End,1023.19,540.71,482.48,47.2,Female,46–55
+2025-10-21,Curry House Shoreditch,1454.88,895.16,559.72,38.5,Female,36–45
+2025-10-22,Curry House Shoreditch,1307.1,794.36,512.74,39.2,Female,36–45
+2025-10-23,Curry House West End,992.13,691.89,300.24,30.3,Female,36–45
+2025-10-24,Curry House West End,1469.88,644.57,825.31,56.1,Male,56+
+2025-10-25,Curry House Shoreditch,1292.19,557.23,734.96,56.9,Other,36–45
+2025-10-26,Curry House Central,1443.86,891.3,552.56,38.3,Female,56+
+2025-10-27,Curry House West End,1388.89,796.55,592.34,42.6,Male,56+
+2025-10-28,Curry House Shoreditch,951.3,458.76,492.54,51.8,Female,46–55
+2025-10-29,Curry House Shoreditch,1031.95,437.37,594.58,57.6,Female,18–25
+2025-10-30,Curry House Shoreditch,1424.19,606.27,817.92,57.4,Female,46–55
+2025-10-31,Curry House Shoreditch,1383.11,924.27,458.84,33.2,Female,46–55
+2025-11-01,Curry House Central,1193.73,546.2,647.53,54.2,Female,56+
+2025-11-02,Curry House Shoreditch,1235.2,613.91,621.29,50.3,Female,56+
+2025-11-03,Curry House West End,1583.3,740.98,842.32,53.2,Female,36–45
+2025-11-04,Curry House Central,1022.53,517.91,504.62,49.4,Female,36–45
+2025-11-05,Curry House Shoreditch,1364.13,574.06,790.07,57.9,Male,46–55
+2025-11-06,Curry House Central,1139.34,633.15,506.19,44.4,Female,26–35
+2025-11-07,Curry House West End,1134.7,476.9,657.8,58.0,Male,26–35
+2025-11-08,Curry House Shoreditch,1529.63,979.13,550.5,36.0,Female,36–45
+2025-11-09,Curry House West End,1447.62,680.55,767.07,53.0,Female,26–35
+2025-11-10,Curry House Shoreditch,1444.05,811.56,632.49,43.8,Female,36–45
+2025-11-11,Curry House Shoreditch,1591.64,1056.89,534.75,33.6,Female,56+
+2025-11-12,Curry House Shoreditch,1206.3,718.07,488.23,40.5,Female,46–55
+2025-11-13,Curry House Shoreditch,1404.59,786.41,618.18,44.0,Male,18–25
+2025-11-14,Curry House Shoreditch,1106.92,550.47,556.45,50.3,Female,46–55
+2025-11-15,Curry House Central,1297.25,648.5,648.75,50.0,Male,36–45
+2025-11-16,Curry House Shoreditch,1160.96,697.56,463.4,39.9,Male,36–45
+2025-11-17,Curry House Shoreditch,1229.1,858.21,370.89,30.2,Male,46–55
+2025-11-18,Curry House Central,1378.55,825.13,553.42,40.1,Female,36–45
+2025-11-19,Curry House Central,954.53,541.54,412.99,43.3,Female,26–35
+2025-11-20,Curry House Central,1827.72,1131.72,696.0,38.1,Female,26–35
+2025-11-21,Curry House Central,898.19,484.63,413.56,46.0,Male,36–45
+2025-11-22,Curry House Central,835.74,349.38,486.36,58.2,Female,36–45
+2025-11-23,Curry House Central,1547.43,880.01,667.42,43.1,Male,26–35
+2025-11-24,Curry House Shoreditch,1437.5,987.98,449.52,31.3,Male,36–45
+2025-11-25,Curry House Shoreditch,1387.24,627.85,759.39,54.7,Female,36–45
+2025-11-26,Curry House West End,1388.5,842.82,545.68,39.3,Male,46–55
+2025-11-27,Curry House Shoreditch,1196.33,550.65,645.68,54.0,Male,18–25
+2025-11-28,Curry House Shoreditch,930.82,521.96,408.86,43.9,Male,26–35
+2025-11-29,Curry House Central,1222.74,524.56,698.18,57.1,Male,46–55
+2025-11-30,Curry House Central,996.85,533.43,463.42,46.5,Male,18–25
+2025-12-01,Curry House Shoreditch,1492.54,935.6,556.94,37.3,Male,36–45
+2025-12-02,Curry House West End,1155.88,582.88,573.0,49.6,Female,36–45
+2025-12-03,Curry House Central,952.35,570.91,381.44,40.1,Female,46–55
+2025-12-04,Curry House Shoreditch,1103.58,704.78,398.8,36.1,Female,36–45
+2025-12-05,Curry House Shoreditch,1323.88,897.79,426.09,32.2,Other,56+
+2025-12-06,Curry House West End,1030.88,484.92,545.96,53.0,Male,46–55
+2025-12-07,Curry House West End,953.33,495.54,457.79,48.0,Female,18–25
+2025-12-08,Curry House Central,1273.11,567.46,705.65,55.4,Other,46–55
+2025-12-09,Curry House West End,1273.49,888.57,384.92,30.2,Male,26–35
+2025-12-10,Curry House Shoreditch,1047.92,710.59,337.33,32.2,Female,46–55
+2025-12-11,Curry House Shoreditch,1058.69,594.97,463.72,43.8,Male,36–45
+2025-12-12,Curry House West End,1269.61,828.56,441.05,34.7,Male,36–45
+2025-12-13,Curry House West End,765.57,425.88,339.69,44.4,Male,56+
+2025-12-14,Curry House West End,777.76,456.6,321.16,41.3,Female,56+
+2025-12-15,Curry House West End,984.47,420.11,564.36,57.3,Female,56+
+2025-12-16,Curry House Central,1135.97,711.78,424.19,37.3,Female,18–25
+2025-12-17,Curry House West End,1293.27,566.86,726.41,56.2,Male,56+
+2025-12-18,Curry House Central,1642.61,1064.12,578.49,35.2,Male,18–25
+2025-12-19,Curry House Shoreditch,1457.3,924.81,532.49,36.5,Male,56+
+2025-12-20,Curry House West End,1152.02,705.75,446.27,38.7,Male,18–25
+2025-12-21,Curry House Central,1194.3,490.68,703.62,58.9,Female,46–55
+2025-12-22,Curry House West End,899.24,441.47,457.77,50.9,Male,46–55
+2025-12-23,Curry House Shoreditch,1194.45,572.06,622.39,52.1,Female,36–45
+2025-12-24,Curry House Shoreditch,1113.4,565.65,547.75,49.2,Female,18–25
+2025-12-25,Curry House Shoreditch,1296.82,552.83,743.99,57.4,Male,26–35
+2025-12-26,Curry House West End,951.83,648.28,303.55,31.9,Female,36–45
+2025-12-27,Curry House West End,1355.8,767.57,588.23,43.4,Male,46–55
+2025-12-28,Curry House Central,1659.82,816.06,843.76,50.8,Male,18–25
+2025-12-29,Curry House Shoreditch,1167.37,605.98,561.39,48.1,Male,56+
+2025-12-30,Curry House West End,1320.51,705.36,615.15,46.6,Female,26–35
+2025-12-31,Curry House Shoreditch,1407.04,816.33,590.71,42.0,Male,46–55
+2026-01-01,Curry House Shoreditch,1079.63,598.87,480.76,44.5,Female,36–45
+2026-01-02,Curry House Central,1267.23,856.42,410.81,32.4,Female,18–25
+2026-01-03,Curry House Central,1203.78,660.98,542.8,45.1,Male,26–35
+2026-01-04,Curry House Central,1229.3,857.62,371.68,30.2,Female,18–25
+2026-01-05,Curry House Central,968.1,634.52,333.58,34.5,Female,56+
+2026-01-06,Curry House Shoreditch,1207.35,558.46,648.89,53.7,Male,36–45
+2026-01-07,Curry House Central,1349.4,916.48,432.92,32.1,Male,18–25
+2026-01-08,Curry House Central,1635.34,711.23,924.11,56.5,Female,46–55
+2026-01-09,Curry House Central,1487.78,959.97,527.81,35.5,Male,36–45
+2026-01-10,Curry House Central,1845.95,949.16,896.79,48.6,Female,46–55
+2026-01-11,Curry House Shoreditch,969.8,643.36,326.44,33.7,Male,18–25
+2026-01-12,Curry House Central,1461.7,965.33,496.37,34.0,Male,36–45
+2026-01-13,Curry House Shoreditch,1255.0,805.43,449.57,35.8,Male,46–55
+2026-01-14,Curry House West End,1856.94,1182.89,674.05,36.3,Male,56+
+2026-01-15,Curry House Shoreditch,957.51,470.52,486.99,50.9,Female,56+
+2026-01-16,Curry House Shoreditch,948.08,402.25,545.83,57.6,Male,18–25
+2026-01-17,Curry House Central,1020.18,531.41,488.77,47.9,Female,36–45
+2026-01-18,Curry House West End,562.83,254.43,308.4,54.8,Female,26–35
+2026-01-19,Curry House West End,1042.27,634.21,408.06,39.2,Female,36–45
+2026-01-20,Curry House West End,972.26,489.85,482.41,49.6,Female,56+
+2026-01-21,Curry House West End,1245.12,862.47,382.65,30.7,Male,46–55
+2026-01-22,Curry House Shoreditch,1302.53,771.48,531.05,40.8,Male,26–35
+2026-01-23,Curry House West End,1762.85,1140.11,622.74,35.3,Female,18–25
+2026-01-24,Curry House Shoreditch,1485.13,653.1,832.03,56.0,Male,26–35
+2026-01-25,Curry House Shoreditch,1026.93,676.34,350.59,34.1,Female,18–25
+2026-01-26,Curry House Shoreditch,930.48,629.77,300.71,32.3,Male,26–35
+2026-01-27,Curry House West End,1347.58,735.94,611.64,45.4,Female,18–25
+2026-01-28,Curry House Central,803.93,467.79,336.14,41.8,Female,18–25
+2026-01-29,Curry House Central,1749.44,1101.17,648.27,37.1,Female,26–35
+2026-01-30,Curry House West End,1553.83,703.03,850.8,54.8,Female,26–35
+2026-01-31,Curry House Central,1059.25,583.4,475.85,44.9,Female,18–25
+2026-02-01,Curry House Central,686.06,356.48,329.58,48.0,Female,56+
+2026-02-02,Curry House Shoreditch,1606.16,712.99,893.17,55.6,Female,26–35
+2026-02-03,Curry House Shoreditch,1165.64,594.78,570.86,49.0,Male,36–45
+2026-02-04,Curry House West End,1571.34,660.67,910.67,58.0,Male,46–55
+2026-02-05,Curry House West End,721.67,294.26,427.41,59.2,Male,18–25
+2026-02-06,Curry House Central,1020.19,449.44,570.75,55.9,Female,18–25
+2026-02-07,Curry House Shoreditch,1201.57,827.8,373.77,31.1,Male,46–55
+2026-02-08,Curry House West End,1214.09,685.79,528.3,43.5,Female,56+
+2026-02-09,Curry House West End,1064.98,734.57,330.41,31.0,Female,46–55
+2026-02-10,Curry House West End,1386.85,734.68,652.17,47.0,Female,26–35
+2026-02-11,Curry House West End,879.71,434.18,445.53,50.6,Female,46–55
+2026-02-12,Curry House West End,1157.29,638.64,518.65,44.8,Male,18–25
+2026-02-13,Curry House West End,1236.09,657.42,578.67,46.8,Female,46–55
+2026-02-14,Curry House Central,1354.33,584.66,769.67,56.8,Female,36–45
+2026-02-15,Curry House Shoreditch,1413.48,837.13,576.35,40.8,Male,26–35
+2026-02-16,Curry House Shoreditch,862.61,400.95,461.66,53.5,Male,46–55
+2026-02-17,Curry House West End,739.77,433.41,306.36,41.4,Female,18–25
+2026-02-18,Curry House Shoreditch,1583.3,942.16,641.14,40.5,Female,26–35
+2026-02-19,Curry House Shoreditch,1299.69,579.15,720.54,55.4,Male,18–25
+2026-02-20,Curry House Shoreditch,975.45,408.13,567.32,58.2,Female,56+
+2026-02-21,Curry House West End,1665.35,1056.21,609.14,36.6,Female,36–45
+2026-02-22,Curry House West End,1234.7,664.19,570.51,46.2,Male,56+
+2026-02-23,Curry House Shoreditch,1553.79,648.63,905.16,58.3,Other,36–45
+2026-02-24,Curry House Shoreditch,1220.26,852.3,367.96,30.2,Female,46–55
+2026-02-25,Curry House West End,1818.22,758.81,1059.41,58.3,Female,26–35
+2026-02-26,Curry House Central,1726.6,1050.65,675.95,39.1,Female,46–55
+2026-02-27,Curry House Shoreditch,1125.31,782.21,343.1,30.5,Male,36–45
+2026-02-28,Curry House Central,1491.47,703.61,787.86,52.8,Male,36–45
+2026-03-01,Curry House Shoreditch,1393.61,616.92,776.69,55.7,Male,36–45
+2026-03-02,Curry House Central,1610.59,702.89,907.7,56.4,Male,18–25
+2026-03-03,Curry House Central,910.52,447.05,463.47,50.9,Male,26–35
+2026-03-04,Curry House Central,1405.82,604.94,800.88,57.0,Female,46–55
+2026-03-05,Curry House West End,1517.53,922.12,595.41,39.2,Female,46–55
+2026-03-06,Curry House Central,672.38,281.52,390.86,58.1,Female,56+
+2026-03-07,Curry House Central,845.02,467.15,377.87,44.7,Female,36–45
+2026-03-08,Curry House Central,588.23,411.18,177.05,30.1,Female,36–45
+2026-03-09,Curry House Shoreditch,1119.18,720.97,398.21,35.6,Male,36–45
+2026-03-10,Curry House Central,1415.26,827.31,587.95,41.5,Male,46–55
+2026-03-11,Curry House Shoreditch,1650.71,811.94,838.77,50.8,Female,56+
+2026-03-12,Curry House Central,1222.23,717.66,504.57,41.3,Female,18–25
+2026-03-13,Curry House Central,1688.58,942.42,746.16,44.2,Male,26–35
+2026-03-14,Curry House West End,785.97,414.85,371.12,47.2,Female,18–25
+2026-03-15,Curry House Shoreditch,688.99,302.61,386.38,56.1,Male,46–55
+2026-03-16,Curry House Central,1183.34,788.08,395.26,33.4,Female,36–45
+2026-03-17,Curry House Shoreditch,1315.22,703.56,611.66,46.5,Female,26–35
+2026-03-18,Curry House Shoreditch,1190.19,545.57,644.62,54.2,Female,46–55
+2026-03-19,Curry House West End,579.77,295.87,283.9,49.0,Other,46–55
+2026-03-20,Curry House West End,1173.26,615.07,558.19,47.6,Female,46–55
+2026-03-21,Curry House West End,808.66,524.22,284.44,35.2,Female,26–35
+2026-03-22,Curry House West End,1400.9,868.68,532.22,38.0,Female,26–35
+2026-03-23,Curry House West End,1309.98,826.32,483.66,36.9,Female,56+
+2026-03-24,Curry House West End,918.04,370.25,547.79,59.7,Female,56+
+2026-03-25,Curry House West End,1045.84,548.91,496.93,47.5,Male,18–25
+2026-03-26,Curry House West End,882.24,480.29,401.95,45.6,Male,26–35
+2026-03-27,Curry House Central,1181.2,479.28,701.92,59.4,Female,26–35
+2026-03-28,Curry House Shoreditch,1486.54,710.48,776.06,52.2,Male,26–35
+2026-03-29,Curry House West End,904.28,567.97,336.31,37.2,Male,56+
+2026-03-30,Curry House West End,1351.21,596.06,755.15,55.9,Other,46–55
+2026-03-31,Curry House Shoreditch,1040.92,583.53,457.39,43.9,Female,36–45
+2026-04-01,Curry House Central,962.14,446.97,515.17,53.5,Female,56+
+2026-04-02,Curry House Shoreditch,1167.89,471.4,696.49,59.6,Male,26–35
+2026-04-03,Curry House Shoreditch,889.43,420.13,469.3,52.8,Male,56+
+2026-04-04,Curry House West End,1033.91,716.25,317.66,30.7,Male,18–25
+2026-04-05,Curry House Shoreditch,840.64,538.4,302.24,36.0,Male,26–35
+2026-04-06,Curry House Shoreditch,1789.42,1230.89,558.53,31.2,Male,18–25
+2026-04-07,Curry House West End,1210.58,661.41,549.17,45.4,Male,26–35
+2026-04-08,Curry House West End,990.08,428.63,561.45,56.7,Female,56+
+2026-04-09,Curry House West End,1264.19,713.49,550.7,43.6,Female,46–55
+2026-04-10,Curry House West End,1166.3,625.5,540.8,46.4,Male,36–45
+2026-04-11,Curry House Shoreditch,1133.71,740.66,393.05,34.7,Male,18–25
+2026-04-12,Curry House Shoreditch,1384.25,594.43,789.82,57.1,Female,56+
+2026-04-13,Curry House Central,1427.25,779.95,647.3,45.4,Male,46–55
+2026-04-14,Curry House Central,1040.85,463.19,577.66,55.5,Female,56+
+2026-04-15,Curry House Shoreditch,1027.25,510.96,516.29,50.3,Male,18–25
+2026-04-16,Curry House Central,1117.48,694.19,423.29,37.9,Male,36–45
+2026-04-17,Curry House Shoreditch,509.42,276.52,232.9,45.7,Male,56+
+2026-04-18,Curry House Central,745.44,382.24,363.2,48.7,Male,26–35
+2026-04-19,Curry House West End,1610.06,834.56,775.5,48.2,Female,46–55
+2026-04-20,Curry House Central,1693.49,910.82,782.67,46.2,Female,56+
+2026-04-21,Curry House West End,1125.29,715.13,410.16,36.4,Female,46–55
+2026-04-22,Curry House West End,1372.97,916.63,456.34,33.2,Male,26–35
+2026-04-23,Curry House West End,1293.38,888.04,405.34,31.3,Female,36–45
+2026-04-24,Curry House West End,2123.66,1350.8,772.86,36.4,Female,36–45
+2026-04-25,Curry House Central,1535.87,759.68,776.19,50.5,Female,26–35
+2026-04-26,Curry House Shoreditch,1161.62,704.45,457.17,39.4,Male,46–55
+2026-04-27,Curry House West End,913.34,485.24,428.1,46.9,Male,56+
+2026-04-28,Curry House Central,718.07,342.09,375.98,52.4,Female,26–35
+2026-04-29,Curry House West End,1261.04,822.53,438.51,34.8,Female,18–25
+2026-04-30,Curry House Central,973.09,400.45,572.64,58.8,Male,46–55
+2026-05-01,Curry House Central,773.32,518.53,254.79,32.9,Male,36–45
+2026-05-02,Curry House Central,1006.03,541.69,464.34,46.2,Female,26–35
+2026-05-03,Curry House Shoreditch,875.54,517.58,357.96,40.9,Female,36–45
+2026-05-04,Curry House Central,1706.14,1019.94,686.2,40.2,Male,46–55
+2026-05-05,Curry House Central,1464.49,979.06,485.43,33.1,Female,36–45
+2026-05-06,Curry House Shoreditch,1197.61,707.79,489.82,40.9,Female,26–35
+2026-05-07,Curry House Shoreditch,1643.98,960.38,683.6,41.6,Female,46–55
+2026-05-08,Curry House Central,1223.21,513.74,709.47,58.0,Female,18–25
+2026-05-09,Curry House Shoreditch,941.61,523.09,418.52,44.4,Male,26–35
+2026-05-10,Curry House West End,1656.94,737.42,919.52,55.5,Female,56+
+2026-05-11,Curry House West End,1361.67,845.91,515.76,37.9,Male,26–35
+2026-05-12,Curry House Shoreditch,888.83,492.12,396.71,44.6,Female,46–55
+2026-05-13,Curry House Shoreditch,1142.9,690.39,452.51,39.6,Female,26–35
+2026-05-14,Curry House Central,937.31,386.64,550.67,58.8,Male,18–25
+2026-05-15,Curry House Shoreditch,785.16,334.04,451.12,57.5,Female,18–25
+2026-05-16,Curry House Central,1477.85,908.73,569.12,38.5,Other,56+
+2026-05-17,Curry House West End,1772.82,747.47,1025.35,57.8,Male,36–45
+2026-05-18,Curry House Shoreditch,780.43,328.86,451.57,57.9,Female,46–55
+2026-05-19,Curry House Central,1368.89,552.53,816.36,59.6,Female,46–55
+2026-05-20,Curry House Central,1004.81,690.25,314.56,31.3,Female,36–45
+2026-05-21,Curry House West End,1053.86,654.71,399.15,37.9,Male,18–25
+2026-05-22,Curry House Shoreditch,1022.28,517.25,505.03,49.4,Male,18–25
+2026-05-23,Curry House West End,940.8,460.01,480.79,51.1,Male,26–35
+2026-05-24,Curry House Central,1214.56,613.24,601.32,49.5,Female,56+
+2026-05-25,Curry House Central,950.71,601.23,349.48,36.8,Male,56+
+2026-05-26,Curry House Shoreditch,1281.14,766.65,514.49,40.2,Female,56+
+2026-05-27,Curry House Central,1184.93,539.81,645.12,54.4,Male,26–35
+2026-05-28,Curry House Shoreditch,1128.32,510.26,618.06,54.8,Female,56+
+2026-05-29,Curry House West End,927.73,398.48,529.25,57.0,Male,36–45
+2026-05-30,Curry House Shoreditch,1026.97,614.22,412.75,40.2,Male,26–35
+2026-05-31,Curry House Shoreditch,1426.62,897.79,528.83,37.1,Male,36–45
+2026-06-01,Curry House Central,1350.28,647.48,702.8,52.0,Male,26–35
+2026-06-02,Curry House Central,906.73,368.39,538.34,59.4,Female,56+
+2026-06-03,Curry House Shoreditch,1229.8,522.24,707.56,57.5,Female,36–45
+2026-06-04,Curry House Central,1425.42,984.05,441.37,31.0,Female,36–45
+2026-06-05,Curry House Central,699.18,341.64,357.54,51.1,Female,36–45
+2026-06-06,Curry House Central,1363.01,859.74,503.27,36.9,Female,26–35
+2026-06-07,Curry House Shoreditch,1001.21,588.11,413.1,41.3,Female,46–55
+2026-06-08,Curry House Central,1371.18,705.58,665.6,48.5,Female,56+
+2026-06-09,Curry House Shoreditch,971.02,448.33,522.69,53.8,Female,36–45
+2026-06-10,Curry House Central,658.54,287.4,371.14,56.4,Male,46–55
+2026-06-11,Curry House West End,711.74,416.01,295.73,41.6,Female,56+
+2026-06-12,Curry House Central,1214.43,767.99,446.44,36.8,Male,56+
+2026-06-13,Curry House Central,1277.92,758.03,519.89,40.7,Female,36–45
+2026-06-14,Curry House Shoreditch,928.71,519.23,409.48,44.1,Female,36–45
+2026-06-15,Curry House Shoreditch,1391.58,574.15,817.43,58.7,Male,26–35
+2026-06-16,Curry House Central,701.54,484.45,217.09,30.9,Male,46–55
+2026-06-17,Curry House West End,1180.18,754.86,425.32,36.0,Female,46–55
+2026-06-18,Curry House Central,836.7,408.18,428.52,51.2,Female,36–45
+2026-06-19,Curry House Central,1004.45,697.08,307.37,30.6,Male,56+
+2026-06-20,Curry House West End,1214.22,704.93,509.29,41.9,Female,36–45
+2026-06-21,Curry House Shoreditch,941.88,541.32,400.56,42.5,Female,56+
+2026-06-22,Curry House Central,1084.63,677.27,407.36,37.6,Female,56+
+2026-06-23,Curry House Shoreditch,1501.89,966.51,535.38,35.6,Other,36–45
+2026-06-24,Curry House Shoreditch,1026.93,613.02,413.91,40.3,Female,18–25
+2026-06-25,Curry House West End,1450.71,636.03,814.68,56.2,Male,46–55
+2026-06-26,Curry House West End,861.09,431.82,429.27,49.9,Female,56+
+2026-06-27,Curry House Shoreditch,1358.94,921.94,437.0,32.2,Female,56+
+2026-06-28,Curry House Central,1632.47,762.99,869.48,53.3,Male,18–25
+2026-06-29,Curry House Shoreditch,458.51,234.6,223.91,48.8,Male,26–35
+2026-06-30,Curry House Central,960.93,508.93,452.0,47.0,Male,18–25
+2026-07-01,Curry House Central,1373.12,730.25,642.87,46.8,Female,18–25
+2026-07-02,Curry House West End,1139.09,665.09,474.0,41.6,Female,56+
+2026-07-03,Curry House Central,1311.34,895.54,415.8,31.7,Female,46–55
+2026-07-04,Curry House Central,1018.8,481.09,537.71,52.8,Female,18–25
+2026-07-05,Curry House Shoreditch,1225.98,535.08,690.9,56.4,Female,26–35
+2026-07-06,Curry House West End,1153.3,529.64,623.66,54.1,Male,36–45
+2026-07-07,Curry House Central,1550.33,1032.64,517.69,33.4,Male,18–25
+2026-07-08,Curry House Central,1276.33,757.81,518.52,40.6,Male,18–25
+2026-07-09,Curry House West End,1301.28,632.13,669.15,51.4,Male,26–35
+2026-07-10,Curry House Shoreditch,1076.44,694.07,382.37,35.5,Female,46–55
+2026-07-11,Curry House West End,1053.72,693.78,359.94,34.2,Female,18–25
+2026-07-12,Curry House West End,1070.23,699.88,370.35,34.6,Male,18–25
+2026-07-13,Curry House Central,1318.34,890.77,427.57,32.4,Female,46–55
+2026-07-14,Curry House Central,1073.7,510.73,562.97,52.4,Female,26–35
+2026-07-15,Curry House Shoreditch,1286.93,806.28,480.65,37.3,Male,18–25
+2026-07-16,Curry House Central,1822.62,980.86,841.76,46.2,Male,46–55
+2026-07-17,Curry House Central,1461.34,953.67,507.67,34.7,Male,18–25
+2026-07-18,Curry House West End,1102.19,681.76,420.43,38.1,Male,36–45
+2026-07-19,Curry House Central,1560.36,987.61,572.75,36.7,Female,56+
+2026-07-20,Curry House Shoreditch,1077.58,643.15,434.43,40.3,Male,36–45
+2026-07-21,Curry House West End,588.56,266.75,321.81,54.7,Male,18–25
+2026-07-22,Curry House Shoreditch,897.57,505.79,391.78,43.6,Female,26–35
+2026-07-23,Curry House West End,638.76,444.19,194.57,30.5,Other,56+
+2026-07-24,Curry House Central,1094.55,745.63,348.92,31.9,Male,36–45
+2026-07-25,Curry House West End,1205.53,497.83,707.7,58.7,Male,46–55
+2026-07-26,Curry House West End,1702.93,765.37,937.56,55.1,Male,26–35
+2026-07-27,Curry House Central,1298.08,570.53,727.55,56.0,Male,36–45
+2026-07-28,Curry House Central,1134.27,700.75,433.52,38.2,Male,46–55
+2026-07-29,Curry House Shoreditch,1448.82,934.98,513.84,35.5,Female,18–25
+2026-07-30,Curry House Shoreditch,536.66,249.04,287.62,53.6,Male,46–55
+2026-07-31,Curry House Central,1270.68,701.11,569.57,44.8,Male,36–45
+2026-08-01,Curry House Central,1431.26,933.48,497.78,34.8,Female,36–45
+2026-08-02,Curry House Central,756.42,468.86,287.56,38.0,Male,18–25
+2026-08-03,Curry House West End,1543.13,868.27,674.86,43.7,Male,46–55
+2026-08-04,Curry House West End,1301.55,751.13,550.42,42.3,Male,46–55
+2026-08-05,Curry House West End,1075.41,594.17,481.24,44.7,Other,18–25
+2026-08-06,Curry House Central,1389.83,679.99,709.84,51.1,Male,46–55
+2026-08-07,Curry House Shoreditch,1881.21,1071.36,809.85,43.0,Female,18–25
+2026-08-08,Curry House Central,1254.56,761.1,493.46,39.3,Female,26–35
+2026-08-09,Curry House West End,1274.47,843.7,430.77,33.8,Male,36–45
+2026-08-10,Curry House West End,1062.19,627.63,434.56,40.9,Other,26–35
+2026-08-11,Curry House Central,945.05,593.81,351.24,37.2,Male,56+
+2026-08-12,Curry House Central,1449.1,649.23,799.87,55.2,Male,56+
+2026-08-13,Curry House West End,943.17,507.87,435.3,46.2,Female,56+
+2026-08-14,Curry House West End,1221.47,492.01,729.46,59.7,Female,18–25
+2026-08-15,Curry House West End,1056.7,500.88,555.82,52.6,Female,46–55
+2026-08-16,Curry House Central,1343.69,830.32,513.37,38.2,Male,26–35
+2026-08-17,Curry House West End,1300.1,906.88,393.22,30.2,Male,26–35
+2026-08-18,Curry House West End,1511.26,649.47,861.79,57.0,Female,26–35
+2026-08-19,Curry House Shoreditch,1047.0,544.91,502.09,48.0,Male,26–35
+2026-08-20,Curry House Central,1119.04,716.21,402.83,36.0,Male,56+
+2026-08-21,Curry House Shoreditch,906.37,418.03,488.34,53.9,Male,26–35
+2026-08-22,Curry House Shoreditch,1066.71,604.32,462.39,43.3,Male,46–55
+2026-08-23,Curry House West End,1313.19,814.07,499.12,38.0,Female,56+
+2026-08-24,Curry House Central,1427.1,834.56,592.54,41.5,Male,26–35
+2026-08-25,Curry House West End,923.35,421.42,501.93,54.4,Other,18–25
+2026-08-26,Curry House Central,1460.88,740.1,720.78,49.3,Male,36–45
+2026-08-27,Curry House Shoreditch,1606.69,1020.47,586.22,36.5,Female,36–45
+2026-08-28,Curry House Central,1324.03,749.76,574.27,43.4,Male,36–45
+2026-08-29,Curry House West End,1763.04,707.98,1055.06,59.8,Male,56+
+2026-08-30,Curry House West End,967.86,608.1,359.76,37.2,Male,26–35
+2026-08-31,Curry House West End,826.6,339.4,487.2,58.9,Male,56+
+2026-09-01,Curry House Central,666.38,415.63,250.75,37.6,Female,46–55
+2026-09-02,Curry House Shoreditch,1648.81,759.68,889.13,53.9,Other,18–25
+2026-09-03,Curry House Shoreditch,1396.31,959.85,436.46,31.3,Female,18–25
+2026-09-04,Curry House Central,1183.32,603.95,579.37,49.0,Male,36–45
+2026-09-05,Curry House West End,1283.99,639.53,644.46,50.2,Male,36–45
+2026-09-06,Curry House Shoreditch,862.35,383.46,478.89,55.5,Male,36–45
+2026-09-07,Curry House West End,1933.73,950.78,982.95,50.8,Female,26–35
+2026-09-08,Curry House Central,1238.77,821.3,417.47,33.7,Female,46–55
+2026-09-09,Curry House West End,1232.82,861.62,371.2,30.1,Female,46–55
+2026-09-10,Curry House Shoreditch,1417.73,723.74,693.99,49.0,Male,46–55
+2026-09-11,Curry House Shoreditch,1344.3,718.64,625.66,46.5,Female,46–55
+2026-09-12,Curry House West End,1267.17,781.36,485.81,38.3,Male,36–45
+2026-09-13,Curry House Central,962.86,641.13,321.73,33.4,Female,18–25
+2026-09-14,Curry House West End,1341.44,775.24,566.2,42.2,Female,36–45
+2026-09-15,Curry House Central,1764.61,913.11,851.5,48.3,Female,46–55
+2026-09-16,Curry House West End,1603.63,839.96,763.67,47.6,Female,36–45
+2026-09-17,Curry House Shoreditch,1677.96,1021.35,656.61,39.1,Male,46–55
+2026-09-18,Curry House Central,1046.64,419.67,626.97,59.9,Female,56+
+2026-09-19,Curry House Central,903.12,529.12,374.0,41.4,Male,18–25
+2026-09-20,Curry House Central,1162.26,588.86,573.4,49.3,Female,56+
+2026-09-21,Curry House Shoreditch,1216.72,776.58,440.14,36.2,Male,26–35
+2026-09-22,Curry House West End,1528.26,653.94,874.32,57.2,Female,36–45
+2026-09-23,Curry House Shoreditch,692.26,399.06,293.2,42.4,Female,26–35
+2026-09-24,Curry House Central,1658.87,902.91,755.96,45.6,Female,36–45
+2026-09-25,Curry House West End,1152.6,683.14,469.46,40.7,Female,56+
+2026-09-26,Curry House Shoreditch,1071.94,449.63,622.31,58.1,Female,46–55
+2026-09-27,Curry House Central,896.37,514.51,381.86,42.6,Female,46–55
+2026-09-28,Curry House Central,703.54,399.92,303.62,43.2,Female,36–45
+2026-09-29,Curry House Shoreditch,1446.95,822.15,624.8,43.2,Female,46–55
+2026-09-30,Curry House Shoreditch,1222.0,710.04,511.96,41.9,Male,56+
+2026-10-01,Curry House Shoreditch,813.01,490.2,322.81,39.7,Other,46–55
+2026-10-02,Curry House Central,811.48,520.56,290.92,35.9,Female,56+
+2026-10-03,Curry House Shoreditch,1099.26,528.68,570.58,51.9,Female,26–35
+2026-10-04,Curry House Central,1700.71,1101.23,599.48,35.2,Male,56+
+2026-10-05,Curry House Shoreditch,1122.12,616.58,505.54,45.1,Male,18–25
+2026-10-06,Curry House Central,749.06,316.94,432.12,57.7,Female,18–25
+2026-10-07,Curry House Central,1126.28,470.3,655.98,58.2,Male,18–25
+2026-10-08,Curry House West End,1118.18,559.39,558.79,50.0,Female,36–45
+2026-10-09,Curry House Shoreditch,390.93,248.42,142.51,36.5,Female,36–45
+2026-10-10,Curry House Shoreditch,1183.71,724.79,458.92,38.8,Male,36–45
+2026-10-11,Curry House Central,1130.72,719.8,410.92,36.3,Female,56+
+2026-10-12,Curry House Central,1408.86,782.17,626.69,44.5,Female,36–45
+2026-10-13,Curry House Central,1754.69,933.6,821.09,46.8,Female,26–35
+2026-10-14,Curry House West End,1537.97,683.22,854.75,55.6,Female,18–25
+2026-10-15,Curry House West End,1119.33,557.94,561.39,50.2,Male,56+
+2026-10-16,Curry House Central,868.04,460.24,407.8,47.0,Female,18–25
+2026-10-17,Curry House Shoreditch,1972.01,841.22,1130.79,57.3,Male,36–45
+2026-10-18,Curry House Shoreditch,1217.77,567.7,650.07,53.4,Female,56+
+2026-10-19,Curry House West End,1204.18,697.78,506.4,42.1,Female,46–55
+2026-10-20,Curry House West End,1192.76,740.34,452.42,37.9,Male,26–35
+2026-10-21,Curry House Central,1259.43,880.98,378.45,30.0,Female,36–45
+2026-10-22,Curry House Shoreditch,1156.69,786.47,370.22,32.0,Female,36–45
+2026-10-23,Curry House Central,1027.9,609.31,418.59,40.7,Male,26–35
+2026-10-24,Curry House West End,1035.94,545.29,490.65,47.4,Other,26–35
+2026-10-25,Curry House Shoreditch,1190.17,703.22,486.95,40.9,Male,46–55
+2026-10-26,Curry House Shoreditch,1036.97,659.2,377.77,36.4,Male,36–45
+2026-10-27,Curry House West End,986.15,429.47,556.68,56.4,Female,36–45
+2026-10-28,Curry House Central,1231.93,644.26,587.67,47.7,Female,18–25
+2026-10-29,Curry House Central,1123.51,732.46,391.05,34.8,Female,56+
+2026-10-30,Curry House Shoreditch,1651.2,850.62,800.58,48.5,Female,56+
+2026-10-31,Curry House West End,404.71,231.32,173.39,42.8,Female,18–25
+2026-11-01,Curry House Shoreditch,1527.45,880.32,647.13,42.4,Female,56+
+2026-11-02,Curry House West End,1573.83,716.63,857.2,54.5,Male,26–35
+2026-11-03,Curry House Central,577.98,294.0,283.98,49.1,Male,56+
+2026-11-04,Curry House West End,1097.19,548.98,548.21,50.0,Male,56+
+2026-11-05,Curry House Central,1088.57,443.98,644.59,59.2,Male,18–25
+2026-11-06,Curry House West End,777.75,316.74,461.01,59.3,Female,46–55
+2026-11-07,Curry House Shoreditch,966.65,627.85,338.8,35.0,Male,56+
+2026-11-08,Curry House Central,866.83,417.74,449.09,51.8,Male,56+
+2026-11-09,Curry House Shoreditch,1725.68,958.48,767.2,44.5,Male,46–55
+2026-11-10,Curry House Shoreditch,1480.7,724.98,755.72,51.0,Female,18–25
+2026-11-11,Curry House Central,1581.47,1078.88,502.59,31.8,Female,46–55
+2026-11-12,Curry House Central,1416.5,676.79,739.71,52.2,Female,18–25
+2026-11-13,Curry House Shoreditch,861.28,455.53,405.75,47.1,Female,26–35
+2026-11-14,Curry House Shoreditch,1042.64,690.04,352.6,33.8,Female,18–25
+2026-11-15,Curry House Shoreditch,1346.81,878.9,467.91,34.7,Female,26–35
+2026-11-16,Curry House Shoreditch,833.36,379.87,453.49,54.4,Male,26–35
+2026-11-17,Curry House Central,1413.9,906.02,507.88,35.9,Female,18–25
+2026-11-18,Curry House Central,1127.9,606.2,521.7,46.3,Female,36–45
+2026-11-19,Curry House Shoreditch,1087.55,592.6,494.95,45.5,Female,18–25
+2026-11-20,Curry House West End,1413.29,621.91,791.38,56.0,Female,56+
+2026-11-21,Curry House West End,1333.28,565.55,767.73,57.6,Female,56+
+2026-11-22,Curry House Central,1091.71,675.09,416.62,38.2,Female,36–45
+2026-11-23,Curry House Shoreditch,1547.8,849.65,698.15,45.1,Female,26–35
+2026-11-24,Curry House Shoreditch,875.68,465.03,410.65,46.9,Male,36–45
+2026-11-25,Curry House Central,1384.78,856.97,527.81,38.1,Female,56+
+2026-11-26,Curry House West End,1377.93,867.62,510.31,37.0,Male,36–45
+2026-11-27,Curry House West End,1107.14,495.64,611.5,55.2,Female,18–25
+2026-11-28,Curry House West End,1297.84,756.73,541.11,41.7,Female,36–45
+2026-11-29,Curry House Central,824.67,363.35,461.32,55.9,Male,26–35
+2026-11-30,Curry House West End,1477.21,923.87,553.34,37.5,Female,18–25
+2026-12-01,Curry House Central,1144.53,683.38,461.15,40.3,Male,46–55
+2026-12-02,Curry House Central,1043.18,716.65,326.53,31.3,Female,56+
+2026-12-03,Curry House Shoreditch,1514.7,637.22,877.48,57.9,Male,56+
+2026-12-04,Curry House West End,988.7,412.4,576.3,58.3,Female,36–45
+2026-12-05,Curry House Central,777.46,376.8,400.66,51.5,Male,18–25
+2026-12-06,Curry House West End,733.01,350.75,382.26,52.1,Female,46–55
+2026-12-07,Curry House West End,1381.8,655.1,726.7,52.6,Male,18–25
+2026-12-08,Curry House Shoreditch,815.87,548.16,267.71,32.8,Female,56+
+2026-12-09,Curry House West End,1726.44,819.82,906.62,52.5,Female,18–25
+2026-12-10,Curry House Shoreditch,575.42,277.11,298.31,51.8,Other,46–55
+2026-12-11,Curry House Central,1708.94,1072.91,636.03,37.2,Female,36–45
+2026-12-12,Curry House West End,1263.31,675.77,587.54,46.5,Female,26–35
+2026-12-13,Curry House Central,1170.99,741.25,429.74,36.7,Male,18–25
+2026-12-14,Curry House West End,1036.52,434.93,601.59,58.0,Male,26–35
+2026-12-15,Curry House Central,1319.74,720.94,598.8,45.4,Male,56+
+2026-12-16,Curry House West End,1188.71,487.47,701.24,59.0,Female,36–45
+2026-12-17,Curry House West End,1530.99,641.17,889.82,58.1,Female,36–45
+2026-12-18,Curry House West End,1234.27,829.34,404.93,32.8,Male,18–25
+2026-12-19,Curry House West End,1245.09,550.05,695.04,55.8,Female,36–45
+2026-12-20,Curry House West End,1090.92,610.62,480.3,44.0,Female,18–25
+2026-12-21,Curry House West End,1182.92,619.06,563.86,47.7,Female,18–25
+2026-12-22,Curry House West End,1292.34,651.6,640.74,49.6,Male,26–35
+2026-12-23,Curry House West End,686.95,460.22,226.73,33.0,Male,36–45
+2026-12-24,Curry House West End,795.54,323.42,472.12,59.3,Female,18–25
+2026-12-25,Curry House Central,1422.98,852.56,570.42,40.1,Female,26–35
+2026-12-26,Curry House Shoreditch,1251.26,862.14,389.12,31.1,Male,46–55
+2026-12-27,Curry House West End,1144.8,650.3,494.5,43.2,Female,26–35
+2026-12-28,Curry House Shoreditch,1205.53,821.02,384.51,31.9,Female,26–35
+2026-12-29,Curry House West End,1304.27,542.16,762.11,58.4,Female,18–25
+2026-12-30,Curry House West End,1038.07,545.65,492.42,47.4,Female,56+
+2026-12-31,Curry House Central,966.51,462.04,504.47,52.2,Male,56+
+2027-01-01,Curry House Central,1258.75,779.48,479.27,38.1,Male,56+
+2027-01-02,Curry House Shoreditch,906.49,629.46,277.03,30.6,Female,26–35
+2027-01-03,Curry House Central,1322.48,630.77,691.71,52.3,Male,18–25
+2027-01-04,Curry House Central,689.22,410.95,278.27,40.4,Male,36–45
+2027-01-05,Curry House Shoreditch,1508.75,693.16,815.59,54.1,Male,26–35
+2027-01-06,Curry House Central,1341.78,764.28,577.5,43.0,Male,26–35
+2027-01-07,Curry House West End,1276.81,688.43,588.38,46.1,Male,18–25
+2027-01-08,Curry House Shoreditch,1494.81,1033.81,461.0,30.8,Male,46–55
+2027-01-09,Curry House Shoreditch,1699.64,990.14,709.5,41.7,Male,26–35
+2027-01-10,Curry House West End,1504.31,759.45,744.86,49.5,Male,46–55
+2027-01-11,Curry House Central,647.74,281.27,366.47,56.6,Female,46–55
+2027-01-12,Curry House Shoreditch,816.13,363.48,452.65,55.5,Female,56+
+2027-01-13,Curry House Shoreditch,1012.55,473.46,539.09,53.2,Female,18–25
+2027-01-14,Curry House West End,1207.83,574.07,633.76,52.5,Male,46–55
+2027-01-15,Curry House West End,1355.3,887.97,467.33,34.5,Male,18–25
+2027-01-16,Curry House Central,982.28,558.3,423.98,43.2,Female,56+
+2027-01-17,Curry House Shoreditch,1256.03,699.63,556.4,44.3,Female,18–25
+2027-01-18,Curry House Central,973.39,422.87,550.52,56.6,Female,26–35
+2027-01-19,Curry House Central,1016.54,668.93,347.61,34.2,Male,46–55
+2027-01-20,Curry House West End,778.0,479.9,298.1,38.3,Female,18–25
+2027-01-21,Curry House Shoreditch,923.03,387.95,535.08,58.0,Male,36–45
+2027-01-22,Curry House Shoreditch,794.49,486.51,307.98,38.8,Male,18–25
+2027-01-23,Curry House Shoreditch,907.24,510.83,396.41,43.7,Female,46–55
+2027-01-24,Curry House West End,1516.09,643.61,872.48,57.5,Female,56+
+2027-01-25,Curry House West End,915.18,491.9,423.28,46.3,Male,56+
+2027-01-26,Curry House West End,1989.71,1085.21,904.5,45.5,Male,46–55
+2027-01-27,Curry House West End,1348.0,606.24,741.76,55.0,Female,26–35
+2027-01-28,Curry House West End,1255.45,858.36,397.09,31.6,Male,26–35
+2027-01-29,Curry House Shoreditch,942.49,617.32,325.17,34.5,Male,56+
+2027-01-30,Curry House Central,1410.09,847.05,563.04,39.9,Male,56+
+2027-01-31,Curry House Shoreditch,1027.31,553.4,473.91,46.1,Female,46–55
+2027-02-01,Curry House Central,1236.6,647.4,589.2,47.6,Male,26–35
+2027-02-02,Curry House West End,1968.03,1171.55,796.48,40.5,Other,56+
+2027-02-03,Curry House Central,1171.18,660.11,511.07,43.6,Female,26–35
+2027-02-04,Curry House Shoreditch,1544.78,646.77,898.01,58.1,Other,56+
+2027-02-05,Curry House Shoreditch,989.05,547.69,441.36,44.6,Female,18–25
+2027-02-06,Curry House Central,1189.5,763.57,425.93,35.8,Male,36–45
+2027-02-07,Curry House West End,1731.24,931.01,800.23,46.2,Male,18–25
+2027-02-08,Curry House West End,1011.91,420.54,591.37,58.4,Male,56+
+2027-02-09,Curry House Shoreditch,1743.73,1108.81,634.92,36.4,Male,36–45
+2027-02-10,Curry House Central,1412.33,650.25,762.08,54.0,Female,36–45
+2027-02-11,Curry House West End,1031.26,492.52,538.74,52.2,Male,56+
+2027-02-12,Curry House West End,1389.72,624.56,765.16,55.1,Male,56+
+2027-02-13,Curry House Shoreditch,1491.77,744.49,747.28,50.1,Male,26–35
+2027-02-14,Curry House West End,1386.54,869.4,517.14,37.3,Female,56+
+2027-02-15,Curry House Central,728.93,405.15,323.78,44.4,Male,46–55
+2027-02-16,Curry House Shoreditch,981.86,453.09,528.77,53.9,Male,56+
+2027-02-17,Curry House Shoreditch,1125.74,746.76,378.98,33.7,Male,46–55
+2027-02-18,Curry House Central,1177.67,781.83,395.84,33.6,Female,56+
+2027-02-19,Curry House Shoreditch,1386.2,916.52,469.68,33.9,Female,26–35
+2027-02-20,Curry House West End,1253.31,591.11,662.2,52.8,Male,46–55
+2027-02-21,Curry House West End,799.4,427.98,371.42,46.5,Male,18–25
+2027-02-22,Curry House Central,1314.06,913.92,400.14,30.5,Male,46–55
+2027-02-23,Curry House West End,1383.18,873.62,509.56,36.8,Male,26–35
+2027-02-24,Curry House Central,1367.94,558.33,809.61,59.2,Female,46–55
+2027-02-25,Curry House Central,1524.23,639.51,884.72,58.0,Female,56+
+2027-02-26,Curry House West End,1450.18,781.91,668.27,46.1,Male,56+
+2027-02-27,Curry House Central,1337.75,899.99,437.76,32.7,Female,26–35
+2027-02-28,Curry House West End,1178.95,662.11,516.84,43.8,Male,36–45
+2027-03-01,Curry House Shoreditch,701.71,385.48,316.23,45.1,Female,56+
+2027-03-02,Curry House Shoreditch,1328.89,573.6,755.29,56.8,Female,18–25
+2027-03-03,Curry House Central,1262.31,753.64,508.67,40.3,Male,26–35
+2027-03-04,Curry House West End,1281.47,828.64,452.83,35.3,Female,46–55
+2027-03-05,Curry House West End,816.98,420.03,396.95,48.6,Male,46–55
+2027-03-06,Curry House Shoreditch,875.68,554.03,321.65,36.7,Male,18–25
+2027-03-07,Curry House Shoreditch,1515.95,1045.01,470.94,31.1,Male,56+
+2027-03-08,Curry House West End,1188.13,547.88,640.25,53.9,Male,26–35
+2027-03-09,Curry House Central,1404.45,782.28,622.17,44.3,Female,18–25
+2027-03-10,Curry House Shoreditch,1208.5,587.5,621.0,51.4,Female,56+
+2027-03-11,Curry House Central,1208.93,771.12,437.81,36.2,Female,26–35
+2027-03-12,Curry House Central,1481.49,849.31,632.18,42.7,Female,46–55
+2027-03-13,Curry House Shoreditch,1045.19,617.05,428.14,41.0,Female,26–35
+2027-03-14,Curry House Central,1228.84,785.69,443.15,36.1,Male,36–45
+2027-03-15,Curry House Central,1061.32,550.6,510.72,48.1,Female,26–35
+2027-03-16,Curry House West End,1069.65,721.51,348.14,32.5,Male,36–45
+2027-03-17,Curry House Central,1107.25,619.96,487.29,44.0,Female,26–35
+2027-03-18,Curry House West End,1266.64,566.68,699.96,55.3,Female,36–45
+2027-03-19,Curry House Shoreditch,1056.38,643.09,413.29,39.1,Male,46–55
+2027-03-20,Curry House Shoreditch,1576.73,1005.92,570.81,36.2,Female,56+
+2027-03-21,Curry House West End,931.62,461.18,470.44,50.5,Female,36–45
+2027-03-22,Curry House Shoreditch,1143.94,751.74,392.2,34.3,Female,36–45
+2027-03-23,Curry House Central,1068.08,717.58,350.5,32.8,Male,46–55
+2027-03-24,Curry House Central,1634.09,789.38,844.71,51.7,Male,36–45
+2027-03-25,Curry House Central,1258.97,875.06,383.91,30.5,Male,18–25
+2027-03-26,Curry House Shoreditch,1509.55,667.54,842.01,55.8,Male,46–55
+2027-03-27,Curry House Central,754.33,347.45,406.88,53.9,Male,18–25
+2027-03-28,Curry House Shoreditch,1280.12,582.8,697.32,54.5,Female,46–55
+2027-03-29,Curry House Central,1466.89,980.17,486.72,33.2,Male,36–45
+2027-03-30,Curry House West End,1224.69,730.27,494.42,40.4,Female,18–25
+2027-03-31,Curry House Shoreditch,1519.64,677.2,842.44,55.4,Female,36–45
+2027-04-01,Curry House Shoreditch,1044.81,555.94,488.87,46.8,Female,46–55
+2027-04-02,Curry House Central,1622.8,948.67,674.13,41.5,Male,36–45
+2027-04-03,Curry House Shoreditch,1889.67,803.18,1086.49,57.5,Female,18–25
+2027-04-04,Curry House Shoreditch,1091.15,725.31,365.84,33.5,Female,18–25
+2027-04-05,Curry House West End,1066.35,683.62,382.73,35.9,Male,36–45
+2027-04-06,Curry House West End,1636.02,902.37,733.65,44.8,Male,26–35
+2027-04-07,Curry House Central,1673.87,1155.2,518.67,31.0,Female,46–55
+2027-04-08,Curry House West End,1043.14,547.99,495.15,47.5,Male,46–55
+2027-04-09,Curry House Central,1073.94,746.64,327.3,30.5,Male,36–45
+2027-04-10,Curry House Central,1115.46,669.7,445.76,40.0,Male,26–35
+2027-04-11,Curry House Central,796.66,470.35,326.31,41.0,Male,18–25
+2027-04-12,Curry House Shoreditch,924.4,415.78,508.62,55.0,Female,56+
+2027-04-13,Curry House West End,898.76,597.3,301.46,33.5,Male,56+
+2027-04-14,Curry House Central,969.66,512.22,457.44,47.2,Female,36–45
+2027-04-15,Curry House West End,1189.59,533.73,655.86,55.1,Female,26–35
+2027-04-16,Curry House Central,1270.26,512.91,757.35,59.6,Female,26–35
+2027-04-17,Curry House West End,1665.15,945.68,719.47,43.2,Female,46–55
+2027-04-18,Curry House West End,900.49,502.67,397.82,44.2,Female,18–25
+2027-04-19,Curry House Central,1495.3,920.81,574.49,38.4,Male,26–35
+2027-04-20,Curry House Shoreditch,1135.8,757.67,378.13,33.3,Female,56+
+2027-04-21,Curry House West End,1185.16,502.3,682.86,57.6,Female,18–25
+2027-04-22,Curry House Shoreditch,1402.45,868.75,533.7,38.1,Female,18–25
+2027-04-23,Curry House Shoreditch,863.18,393.8,469.38,54.4,Female,36–45
+2027-04-24,Curry House Central,1314.72,864.37,450.35,34.3,Male,26–35
+2027-04-25,Curry House Central,1249.94,807.11,442.83,35.4,Male,36–45
+2027-04-26,Curry House Central,1347.74,757.75,589.99,43.8,Female,26–35
+2027-04-27,Curry House West End,1286.75,788.87,497.88,38.7,Male,46–55
+2027-04-28,Curry House Central,1936.59,957.27,979.32,50.6,Female,36–45
+2027-04-29,Curry House Central,1008.68,546.05,462.63,45.9,Male,36–45
+2027-04-30,Curry House West End,1040.7,672.8,367.9,35.4,Male,56+
+2027-05-01,Curry House West End,1013.06,544.8,468.26,46.2,Male,36–45
+2027-05-02,Curry House Central,1033.36,524.26,509.1,49.3,Male,26–35
+2027-05-03,Curry House Central,1008.78,553.08,455.7,45.2,Female,56+
+2027-05-04,Curry House Central,1556.7,1009.48,547.22,35.2,Male,36–45
+2027-05-05,Curry House Central,1626.15,813.99,812.16,49.9,Other,36–45
+2027-05-06,Curry House Shoreditch,1028.78,465.14,563.64,54.8,Female,46–55
+2027-05-07,Curry House Shoreditch,950.29,583.1,367.19,38.6,Male,36–45
+2027-05-08,Curry House Central,1341.42,868.96,472.46,35.2,Female,18–25
+2027-05-09,Curry House Shoreditch,1034.33,444.96,589.37,57.0,Female,56+
+2027-05-10,Curry House West End,1389.88,655.97,733.91,52.8,Female,18–25
+2027-05-11,Curry House Shoreditch,1260.88,558.05,702.83,55.7,Male,56+
+2027-05-12,Curry House Shoreditch,745.28,375.91,369.37,49.6,Female,46–55
+2027-05-13,Curry House Central,1664.25,890.55,773.7,46.5,Female,36–45
+2027-05-14,Curry House Shoreditch,1738.76,1086.11,652.65,37.5,Male,36–45
+2027-05-15,Curry House Shoreditch,1016.16,604.97,411.19,40.5,Male,36–45
+2027-05-16,Curry House Shoreditch,1083.69,635.34,448.35,41.4,Female,56+
+2027-05-17,Curry House Shoreditch,1285.76,650.22,635.54,49.4,Male,36–45
+2027-05-18,Curry House West End,1300.34,848.39,451.95,34.8,Female,18–25
+2027-05-19,Curry House Central,1397.56,756.62,640.94,45.9,Male,36–45
+2027-05-20,Curry House Central,1803.06,1250.84,552.22,30.6,Female,46–55
+2027-05-21,Curry House West End,1146.92,676.96,469.96,41.0,Female,18–25
+2027-05-22,Curry House Shoreditch,960.51,420.59,539.92,56.2,Male,36–45
+2027-05-23,Curry House West End,786.2,473.96,312.24,39.7,Male,36–45
+2027-05-24,Curry House Shoreditch,980.72,487.94,492.78,50.2,Female,26–35
+2027-05-25,Curry House West End,1190.06,721.06,469.0,39.4,Female,56+
+2027-05-26,Curry House Central,1738.37,731.67,1006.7,57.9,Female,18–25
+2027-05-27,Curry House Central,1044.72,472.7,572.02,54.8,Male,26–35
+2027-05-28,Curry House Central,1267.14,832.16,434.98,34.3,Male,46–55
+2027-05-29,Curry House Shoreditch,1195.07,559.48,635.59,53.2,Male,56+
+2027-05-30,Curry House Shoreditch,1556.52,1013.47,543.05,34.9,Female,18–25
+2027-05-31,Curry House West End,1958.08,947.29,1010.79,51.6,Male,36–45
+2027-06-01,Curry House West End,1040.74,617.02,423.72,40.7,Male,18–25
+2027-06-02,Curry House Central,1053.17,640.59,412.58,39.2,Female,36–45
+2027-06-03,Curry House Shoreditch,1513.25,838.03,675.22,44.6,Female,56+
+2027-06-04,Curry House West End,1404.57,690.48,714.09,50.8,Male,36–45
+2027-06-05,Curry House Shoreditch,1754.01,813.5,940.51,53.6,Male,46–55
+2027-06-06,Curry House Shoreditch,1375.18,563.76,811.42,59.0,Female,36–45
+2027-06-07,Curry House Central,1092.21,536.48,555.73,50.9,Female,46–55
+2027-06-08,Curry House Central,1377.2,820.74,556.46,40.4,Male,56+
+2027-06-09,Curry House Shoreditch,1532.61,1044.46,488.15,31.9,Female,56+
+2027-06-10,Curry House Shoreditch,1446.14,956.42,489.72,33.9,Female,18–25
+2027-06-11,Curry House Shoreditch,1352.18,851.63,500.55,37.0,Male,46–55
+2027-06-12,Curry House Shoreditch,1520.0,967.53,552.47,36.3,Male,46–55
+2027-06-13,Curry House Central,1550.79,929.69,621.1,40.1,Female,26–35
+2027-06-14,Curry House West End,1614.65,771.94,842.71,52.2,Female,26–35
+2027-06-15,Curry House Central,1394.61,937.4,457.21,32.8,Male,26–35
+2027-06-16,Curry House West End,1149.86,691.32,458.54,39.9,Female,36–45
+2027-06-17,Curry House Shoreditch,1244.01,706.76,537.25,43.2,Female,26–35
+2027-06-18,Curry House West End,1561.95,676.79,885.16,56.7,Male,46–55
+2027-06-19,Curry House Central,954.92,510.04,444.88,46.6,Female,36–45
+2027-06-20,Curry House Central,1310.6,705.24,605.36,46.2,Female,56+
+2027-06-21,Curry House Shoreditch,1082.0,713.44,368.56,34.1,Male,18–25
+2027-06-22,Curry House Central,1208.62,681.65,526.97,43.6,Male,26–35
+2027-06-23,Curry House Shoreditch,1583.54,814.13,769.41,48.6,Male,56+
+2027-06-24,Curry House Central,1257.33,871.38,385.95,30.7,Female,46–55
+2027-06-25,Curry House Central,1213.93,525.89,688.04,56.7,Other,18–25
+2027-06-26,Curry House Shoreditch,792.04,417.22,374.82,47.3,Male,56+
+2027-06-27,Curry House West End,1423.88,587.5,836.38,58.7,Female,18–25
+2027-06-28,Curry House Central,1393.65,866.81,526.84,37.8,Female,26–35
+2027-06-29,Curry House West End,1848.98,1248.84,600.14,32.5,Female,46–55
+2027-06-30,Curry House Central,1107.67,536.12,571.55,51.6,Male,18–25
+2027-07-01,Curry House Central,1265.75,832.23,433.52,34.3,Male,56+
+2027-07-02,Curry House Central,1274.82,621.69,653.13,51.2,Male,26–35
+2027-07-03,Curry House Central,1673.24,1126.48,546.76,32.7,Female,26–35
+2027-07-04,Curry House West End,1171.41,733.52,437.89,37.4,Male,56+
+2027-07-05,Curry House West End,1283.71,823.46,460.25,35.9,Female,56+
+2027-07-06,Curry House Central,1382.37,560.42,821.95,59.5,Male,18–25
+2027-07-07,Curry House Central,1255.98,865.17,390.81,31.1,Male,36–45
+2027-07-08,Curry House West End,1066.07,658.83,407.24,38.2,Female,26–35
+2027-07-09,Curry House Shoreditch,1258.23,618.33,639.9,50.9,Female,18–25
+2027-07-10,Curry House Shoreditch,1522.09,987.56,534.53,35.1,Male,56+
+2027-07-11,Curry House West End,892.05,432.16,459.89,51.6,Male,18–25
+2027-07-12,Curry House Central,1239.89,820.59,419.3,33.8,Other,56+
+2027-07-13,Curry House Central,989.96,429.42,560.54,56.6,Male,46–55
+2027-07-14,Curry House Shoreditch,1558.51,952.41,606.1,38.9,Male,56+
+2027-07-15,Curry House Shoreditch,743.04,417.74,325.3,43.8,Female,56+
+2027-07-16,Curry House West End,1032.32,442.82,589.5,57.1,Male,56+
+2027-07-17,Curry House Shoreditch,1313.16,620.56,692.6,52.7,Male,36–45
+2027-07-18,Curry House West End,1669.66,674.08,995.58,59.6,Male,56+
+2027-07-19,Curry House Shoreditch,1180.27,638.09,542.18,45.9,Male,26–35
+2027-07-20,Curry House Shoreditch,1033.44,506.78,526.66,51.0,Male,26–35
+2027-07-21,Curry House Shoreditch,1764.35,1022.45,741.9,42.0,Male,18–25
+2027-07-22,Curry House Central,765.6,374.51,391.09,51.1,Male,36–45
+2027-07-23,Curry House Central,540.36,264.76,275.6,51.0,Male,18–25
+2027-07-24,Curry House Central,1332.0,829.78,502.22,37.7,Female,26–35
+2027-07-25,Curry House Shoreditch,1049.38,434.91,614.47,58.6,Male,26–35
+2027-07-26,Curry House West End,893.63,599.51,294.12,32.9,Male,46–55
+2027-07-27,Curry House West End,1412.51,926.15,486.36,34.4,Female,56+
+2027-07-28,Curry House West End,1273.14,764.32,508.82,40.0,Female,26–35
+2027-07-29,Curry House West End,1030.78,595.76,435.02,42.2,Male,18–25
+2027-07-30,Curry House Central,815.91,544.78,271.13,33.2,Female,18–25
+2027-07-31,Curry House Central,1461.74,665.97,795.77,54.4,Male,56+
+2027-08-01,Curry House Shoreditch,1395.06,591.07,803.99,57.6,Male,56+
+2027-08-02,Curry House Shoreditch,1170.25,552.19,618.06,52.8,Female,46–55
+2027-08-03,Curry House West End,1753.99,1119.7,634.29,36.2,Female,36–45
+2027-08-04,Curry House Central,878.97,360.73,518.24,59.0,Male,18–25
+2027-08-05,Curry House West End,742.34,426.73,315.61,42.5,Male,56+
+2027-08-06,Curry House Shoreditch,992.43,693.34,299.09,30.1,Female,18–25
+2027-08-07,Curry House Shoreditch,1186.32,779.07,407.25,34.3,Male,56+
+2027-08-08,Curry House West End,1273.0,708.34,564.66,44.4,Female,26–35
+2027-08-09,Curry House Shoreditch,1127.63,472.58,655.05,58.1,Male,18–25
+2027-08-10,Curry House West End,1305.62,847.89,457.73,35.1,Female,26–35
+2027-08-11,Curry House Central,824.54,477.98,346.56,42.0,Female,18–25
+2027-08-12,Curry House West End,1633.13,709.56,923.57,56.6,Female,36–45
+2027-08-13,Curry House Central,1175.35,503.23,672.12,57.2,Female,46–55
+2027-08-14,Curry House Central,1535.19,1033.01,502.18,32.7,Female,26–35
+2027-08-15,Curry House Shoreditch,1302.82,782.68,520.14,39.9,Male,56+
+2027-08-16,Curry House Shoreditch,1337.03,867.45,469.58,35.1,Male,36–45
+2027-08-17,Curry House Shoreditch,1370.93,909.88,461.05,33.6,Male,18–25
+2027-08-18,Curry House West End,1334.31,762.6,571.71,42.8,Female,26–35
+2027-08-19,Curry House West End,1392.82,773.34,619.48,44.5,Female,18–25
+2027-08-20,Curry House Shoreditch,1598.75,845.94,752.81,47.1,Male,18–25
+2027-08-21,Curry House West End,1258.96,623.29,635.67,50.5,Male,18–25
+2027-08-22,Curry House Shoreditch,1412.7,749.27,663.43,47.0,Male,46–55
+2027-08-23,Curry House West End,1173.08,741.58,431.5,36.8,Female,46–55
+2027-08-24,Curry House Central,1632.04,947.52,684.52,41.9,Male,56+
+2027-08-25,Curry House Central,997.08,665.81,331.27,33.2,Female,26–35
+2027-08-26,Curry House Shoreditch,1740.28,927.59,812.69,46.7,Other,36–45
+2027-08-27,Curry House West End,1187.95,691.54,496.41,41.8,Male,36–45
+2027-08-28,Curry House West End,770.77,454.29,316.48,41.1,Male,36–45
+2027-08-29,Curry House Central,1238.43,715.2,523.23,42.2,Male,18–25
+2027-08-30,Curry House Central,995.68,608.15,387.53,38.9,Male,46–55
+2027-08-31,Curry House Shoreditch,1452.19,684.32,767.87,52.9,Male,26–35
+2027-09-01,Curry House Central,1004.21,556.04,448.17,44.6,Male,18–25
+2027-09-02,Curry House Shoreditch,1066.14,459.79,606.35,56.9,Female,46–55
+2027-09-03,Curry House Central,633.14,326.29,306.85,48.5,Male,46–55
+2027-09-04,Curry House Central,1064.31,581.43,482.88,45.4,Female,26–35
+2027-09-05,Curry House West End,472.84,281.66,191.18,40.4,Female,26–35
+2027-09-06,Curry House Central,724.83,496.62,228.21,31.5,Female,26–35
+2027-09-07,Curry House Central,1428.12,828.59,599.53,42.0,Male,18–25
+2027-09-08,Curry House Shoreditch,1435.74,894.58,541.16,37.7,Female,56+
+2027-09-09,Curry House Central,1327.64,732.7,594.94,44.8,Male,26–35
+2027-09-10,Curry House Shoreditch,909.91,537.06,372.85,41.0,Female,56+
+2027-09-11,Curry House Central,1185.69,499.51,686.18,57.9,Female,18–25
+2027-09-12,Curry House Central,1198.92,571.07,627.85,52.4,Female,56+
+2027-09-13,Curry House Shoreditch,852.49,433.54,418.95,49.1,Male,36–45
+2027-09-14,Curry House West End,1651.02,894.44,756.58,45.8,Female,56+
+2027-09-15,Curry House Shoreditch,1463.21,605.32,857.89,58.6,Male,26–35
+2027-09-16,Curry House Shoreditch,1133.71,501.11,632.6,55.8,Male,18–25
+2027-09-17,Curry House Shoreditch,1208.07,583.55,624.52,51.7,Male,26–35
+2027-09-18,Curry House West End,1262.51,872.97,389.54,30.9,Male,36–45
+2027-09-19,Curry House Central,587.48,293.39,294.09,50.1,Male,26–35
+2027-09-20,Curry House Shoreditch,1125.85,613.15,512.7,45.5,Female,26–35
+2027-09-21,Curry House Shoreditch,995.4,456.72,538.68,54.1,Female,26–35
+2027-09-22,Curry House West End,899.51,524.62,374.89,41.7,Male,46–55
+2027-09-23,Curry House Shoreditch,1115.67,540.21,575.46,51.6,Male,36–45
+2027-09-24,Curry House Central,1739.31,803.73,935.58,53.8,Male,26–35
+2027-09-25,Curry House West End,1392.25,772.66,619.59,44.5,Male,26–35
+2027-09-26,Curry House Central,1028.65,413.16,615.49,59.8,Male,26–35
+2027-09-27,Curry House Central,1371.77,551.86,819.91,59.8,Female,18–25
