@@ -1,0 +1,47 @@
+Marketing Spend Dataset Documentation File Name: marketing_spend.csv
+
+1.  Overview The marketing_spend.csv file contains structured data
+    related to marketing expenditures across different channels over a
+    defined period. The dataset supports analysis of budget allocation,
+    campaign performance, return on investment (ROI), and marketing
+    efficiency.
+
+2.  File Structure Each row represents marketing performance data for a
+    specific reporting period (daily, weekly, or monthly).
+
+Typical Columns: - Date (YYYY-MM-DD): Reporting period - TV_Spend:
+Amount spent on television advertising - Radio_Spend: Amount spent on
+radio advertising - Social_Media_Spend: Paid social media campaign
+spend - Google_Ads_Spend: Google Ads campaign spend -
+Email_Marketing_Spend: Email marketing allocation -
+Influencer_Marketing_Spend: Influencer campaign spend - Total_Spend: Sum
+of all marketing channel expenditures - Revenue: Revenue generated
+during the period - Conversions: Number of completed actions (sales,
+signups, etc.) - Clicks: Total number of clicks generated - Impressions:
+Total number of impressions
+
+3.  Data Types
+
+-   Date: Date format
+-   Spend Columns: Float or Integer
+-   Total_Spend: Float
+-   Revenue: Float
+-   Conversions: Integer
+-   Clicks: Integer
+-   Impressions: Integer
+
+4.  Key Metrics ROI = (Revenue - Total_Spend) / Total_Spend Cost Per
+    Conversion = Total_Spend / Conversions Click-Through Rate = Clicks /
+    Impressions Conversion Rate = Conversions / Clicks
+
+5.  Data Cleaning Recommendations
+
+-   Check for missing values
+-   Verify Total_Spend equals sum of channel spends
+-   Ensure consistent date formatting
+-   Remove duplicate records
+-   Detect and handle outliers
+
+6.  Business Value This dataset enables marketing performance
+    optimization, budget allocation improvements, trend analysis,
+    forecasting, and strategic decision-making.
