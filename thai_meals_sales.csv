@@ -1,0 +1,601 @@
+OrderID,Meal,SalePrice,CostPrice,CustomerAge,Gender,City,Profit,ProfitMarginPct
+1,Massaman Curry,21.9,9.28,69,Female,Tokyo,12.62,57.63
+2,Thai Fried Rice,9.03,8.84,31,Non-Binary,London,0.1899999999999995,2.1
+3,Tom Yum Soup,15.75,11.8,26,Non-Binary,Tokyo,3.9499999999999993,25.08
+4,Thai Fried Rice,21.57,7.18,32,Female,London,14.39,66.71
+5,Thai Fried Rice,15.32,14.5,38,Non-Binary,Tokyo,0.8200000000000003,5.35
+6,Green Curry,16.81,12.86,52,Non-Binary,Tokyo,3.9499999999999993,23.5
+7,Tom Yum Soup,17.74,5.89,19,Non-Binary,London,11.849999999999998,66.8
+8,Tom Yum Soup,14.36,9.18,44,Male,Sydney,5.18,36.07
+9,Tom Yum Soup,16.79,13.79,19,Female,Tokyo,3.0,17.87
+10,Thai Fried Rice,16.18,14.45,52,Female,NYC,1.7300000000000004,10.69
+11,Massaman Curry,20.62,9.67,35,Female,Sydney,10.950000000000001,53.1
+12,Tom Yum Soup,8.64,11.13,31,Male,London,-2.49,-28.82
+13,Thai Fried Rice,11.93,6.67,37,Male,Sydney,5.26,44.09
+14,Green Curry,21.31,14.91,35,Female,Bangkok,6.399999999999999,30.03
+15,Massaman Curry,20.46,7.32,27,Male,Bangkok,13.14,64.22
+16,Green Curry,14.38,14.43,42,Female,Tokyo,-0.049999999999998934,-0.35
+17,Massaman Curry,16.68,11.5,19,Male,Tokyo,5.18,31.06
+18,Thai Fried Rice,11.88,11.08,42,Non-Binary,NYC,0.8000000000000007,6.73
+19,Pad Thai,10.63,10.13,71,Non-Binary,Sydney,0.5,4.7
+20,Massaman Curry,14.49,7.31,50,Female,Bangkok,7.180000000000001,49.55
+21,Green Curry,12.95,6.77,53,Male,Tokyo,6.18,47.72
+22,Thai Fried Rice,16.17,7.2,48,Male,Sydney,8.970000000000002,55.47
+23,Massaman Curry,9.09,6.86,31,Non-Binary,Tokyo,2.2299999999999995,24.53
+24,Pad Thai,21.64,12.8,18,Non-Binary,Tokyo,8.84,40.85
+25,Pad Thai,21.81,8.5,63,Male,Bangkok,13.309999999999999,61.03
+26,Tom Yum Soup,17.77,5.58,33,Male,Bangkok,12.19,68.6
+27,Tom Yum Soup,15.51,14.69,71,Male,Tokyo,0.8200000000000003,5.29
+28,Green Curry,12.33,13.84,63,Male,London,-1.5099999999999998,-12.25
+29,Massaman Curry,19.39,14.28,69,Male,Tokyo,5.110000000000001,26.35
+30,Massaman Curry,17.59,14.95,20,Male,Tokyo,2.6400000000000006,15.01
+31,Tom Yum Soup,10.28,6.74,52,Female,NYC,3.539999999999999,34.44
+32,Massaman Curry,20.75,8.96,58,Male,NYC,11.79,56.82
+33,Massaman Curry,19.52,12.58,23,Non-Binary,NYC,6.9399999999999995,35.55
+34,Pad Thai,21.3,11.96,42,Female,London,9.34,43.85
+35,Tom Yum Soup,18.16,6.54,30,Male,London,11.620000000000001,63.99
+36,Thai Fried Rice,16.59,13.16,70,Non-Binary,Tokyo,3.4299999999999997,20.68
+37,Tom Yum Soup,13.86,7.24,51,Female,NYC,6.619999999999999,47.76
+38,Thai Fried Rice,21.06,7.24,25,Non-Binary,London,13.819999999999999,65.62
+39,Pad Thai,20.12,10.37,38,Male,Bangkok,9.750000000000002,48.46
+40,Green Curry,8.63,10.93,51,Male,Tokyo,-2.299999999999999,-26.65
+41,Massaman Curry,8.37,10.8,21,Male,Sydney,-2.4300000000000015,-29.03
+42,Pad Thai,13.27,5.91,42,Male,Tokyo,7.359999999999999,55.46
+43,Massaman Curry,19.35,13.77,32,Female,Sydney,5.580000000000002,28.84
+44,Green Curry,21.82,7.66,21,Female,NYC,14.16,64.89
+45,Green Curry,10.11,6.3,62,Non-Binary,Sydney,3.8099999999999996,37.69
+46,Pad Thai,16.32,13.89,29,Male,NYC,2.4299999999999997,14.89
+47,Green Curry,13.33,14.56,49,Non-Binary,Bangkok,-1.2300000000000004,-9.23
+48,Thai Fried Rice,21.58,13.62,49,Female,Sydney,7.959999999999999,36.89
+49,Green Curry,19.79,13.1,45,Male,Tokyo,6.6899999999999995,33.8
+50,Massaman Curry,19.74,11.55,30,Male,NYC,8.189999999999998,41.49
+51,Massaman Curry,14.56,10.51,48,Female,Tokyo,4.050000000000001,27.82
+52,Massaman Curry,13.81,5.87,31,Female,London,7.94,57.49
+53,Massaman Curry,11.83,9.08,37,Female,NYC,2.75,23.25
+54,Thai Fried Rice,8.79,8.73,35,Female,Sydney,0.05999999999999872,0.68
+55,Tom Yum Soup,20.11,7.6,46,Female,NYC,12.51,62.21
+56,Pad Thai,19.38,12.23,23,Male,Tokyo,7.149999999999999,36.89
+57,Massaman Curry,22.0,9.96,49,Female,Bangkok,12.04,54.73
+58,Green Curry,21.95,5.81,46,Male,NYC,16.14,73.53
+59,Massaman Curry,15.78,7.2,60,Male,Sydney,8.579999999999998,54.37
+60,Green Curry,18.77,11.83,19,Female,London,6.9399999999999995,36.97
+61,Green Curry,21.23,5.76,40,Female,Bangkok,15.47,72.87
+62,Massaman Curry,19.9,13.51,36,Male,London,6.389999999999999,32.11
+63,Thai Fried Rice,11.46,9.95,48,Female,NYC,1.5100000000000016,13.18
+64,Green Curry,14.31,9.81,68,Female,Tokyo,4.5,31.45
+65,Green Curry,9.81,10.92,22,Female,Tokyo,-1.1099999999999994,-11.31
+66,Massaman Curry,21.36,13.25,36,Non-Binary,Sydney,8.11,37.97
+67,Green Curry,16.49,8.48,51,Male,Tokyo,8.009999999999998,48.57
+68,Green Curry,11.2,11.78,27,Non-Binary,Bangkok,-0.5800000000000001,-5.18
+69,Massaman Curry,17.4,10.66,42,Female,Tokyo,6.739999999999998,38.74
+70,Massaman Curry,16.65,7.67,19,Non-Binary,Sydney,8.979999999999999,53.93
+71,Pad Thai,13.01,13.79,28,Female,NYC,-0.7799999999999994,-6.0
+72,Thai Fried Rice,9.59,12.97,67,Non-Binary,NYC,-3.380000000000001,-35.25
+73,Thai Fried Rice,17.4,11.58,48,Female,Tokyo,5.8199999999999985,33.45
+74,Green Curry,15.28,13.51,73,Non-Binary,London,1.7699999999999996,11.58
+75,Thai Fried Rice,18.81,13.67,32,Non-Binary,NYC,5.139999999999999,27.33
+76,Green Curry,15.28,12.08,26,Non-Binary,Tokyo,3.1999999999999993,20.94
+77,Pad Thai,19.93,13.37,40,Male,Sydney,6.5600000000000005,32.92
+78,Massaman Curry,15.73,11.97,36,Non-Binary,Tokyo,3.76,23.9
+79,Massaman Curry,15.85,11.8,26,Male,NYC,4.049999999999999,25.55
+80,Massaman Curry,20.27,11.19,52,Female,Sydney,9.08,44.8
+81,Thai Fried Rice,13.65,12.53,38,Non-Binary,Tokyo,1.120000000000001,8.21
+82,Pad Thai,9.88,6.59,26,Female,Bangkok,3.290000000000001,33.3
+83,Thai Fried Rice,8.4,13.81,45,Female,Sydney,-5.41,-64.4
+84,Thai Fried Rice,18.57,13.72,63,Non-Binary,Bangkok,4.85,26.12
+85,Pad Thai,16.68,5.29,68,Male,London,11.39,68.29
+86,Pad Thai,17.86,13.26,24,Non-Binary,Sydney,4.6,25.76
+87,Pad Thai,10.98,6.29,33,Female,Bangkok,4.69,42.71
+88,Pad Thai,9.91,8.35,33,Female,NYC,1.5600000000000005,15.74
+89,Massaman Curry,8.2,12.44,50,Non-Binary,NYC,-4.24,-51.71
+90,Tom Yum Soup,12.91,6.61,21,Male,London,6.3,48.8
+91,Tom Yum Soup,16.26,13.18,21,Male,Sydney,3.080000000000002,18.94
+92,Pad Thai,13.49,13.32,56,Female,Sydney,0.16999999999999993,1.26
+93,Tom Yum Soup,14.12,10.07,57,Female,Sydney,4.049999999999999,28.68
+94,Tom Yum Soup,20.66,5.06,34,Male,London,15.600000000000001,75.51
+95,Pad Thai,12.88,7.87,54,Non-Binary,Sydney,5.010000000000001,38.9
+96,Tom Yum Soup,15.2,11.17,56,Female,NYC,4.029999999999999,26.51
+97,Thai Fried Rice,18.97,14.81,69,Male,Bangkok,4.159999999999998,21.93
+98,Green Curry,13.55,11.32,46,Female,NYC,2.2300000000000004,16.46
+99,Green Curry,16.71,7.6,69,Non-Binary,NYC,9.110000000000001,54.52
+100,Pad Thai,20.07,11.34,53,Male,Bangkok,8.73,43.5
+101,Massaman Curry,21.29,10.4,55,Female,NYC,10.889999999999999,51.15
+102,Pad Thai,10.06,12.8,56,Non-Binary,London,-2.74,-27.24
+103,Massaman Curry,20.97,6.07,67,Female,Bangkok,14.899999999999999,71.05
+104,Green Curry,14.89,12.61,54,Non-Binary,NYC,2.280000000000001,15.31
+105,Pad Thai,11.62,10.41,69,Non-Binary,Tokyo,1.209999999999999,10.41
+106,Thai Fried Rice,14.43,14.63,52,Male,NYC,-0.20000000000000107,-1.39
+107,Tom Yum Soup,21.72,8.42,24,Non-Binary,London,13.299999999999999,61.23
+108,Massaman Curry,14.9,11.33,44,Female,Sydney,3.5700000000000003,23.96
+109,Tom Yum Soup,12.6,14.32,45,Non-Binary,NYC,-1.7200000000000006,-13.65
+110,Tom Yum Soup,16.87,6.03,39,Non-Binary,Sydney,10.84,64.26
+111,Pad Thai,11.36,14.37,31,Male,Tokyo,-3.01,-26.5
+112,Tom Yum Soup,9.06,11.88,24,Non-Binary,NYC,-2.8200000000000003,-31.13
+113,Thai Fried Rice,9.8,5.68,54,Non-Binary,Bangkok,4.120000000000001,42.04
+114,Tom Yum Soup,9.79,8.01,39,Female,Sydney,1.7799999999999994,18.18
+115,Pad Thai,10.13,12.08,22,Male,Tokyo,-1.9499999999999993,-19.25
+116,Thai Fried Rice,9.94,5.67,72,Male,Bangkok,4.27,42.96
+117,Green Curry,16.97,10.82,19,Male,Bangkok,6.149999999999999,36.24
+118,Tom Yum Soup,10.55,8.46,44,Non-Binary,Bangkok,2.09,19.81
+119,Pad Thai,12.84,11.21,38,Male,Bangkok,1.629999999999999,12.69
+120,Green Curry,20.56,5.46,71,Non-Binary,NYC,15.099999999999998,73.44
+121,Green Curry,14.64,13.72,55,Non-Binary,NYC,0.9199999999999999,6.28
+122,Massaman Curry,17.35,14.73,32,Female,NYC,2.620000000000001,15.1
+123,Thai Fried Rice,10.41,14.69,38,Female,Tokyo,-4.279999999999999,-41.11
+124,Tom Yum Soup,10.69,12.5,27,Female,Tokyo,-1.8100000000000005,-16.93
+125,Pad Thai,8.57,6.3,40,Female,Tokyo,2.2700000000000005,26.49
+126,Massaman Curry,10.37,12.58,73,Female,London,-2.210000000000001,-21.31
+127,Thai Fried Rice,11.9,5.25,56,Non-Binary,Tokyo,6.65,55.88
+128,Massaman Curry,10.48,5.22,22,Non-Binary,NYC,5.260000000000001,50.19
+129,Thai Fried Rice,9.24,8.24,18,Male,NYC,1.0,10.82
+130,Thai Fried Rice,9.69,9.89,30,Non-Binary,London,-0.20000000000000107,-2.06
+131,Tom Yum Soup,14.45,12.7,38,Non-Binary,London,1.75,12.11
+132,Thai Fried Rice,10.89,11.83,43,Female,Tokyo,-0.9399999999999995,-8.63
+133,Massaman Curry,13.1,9.46,67,Non-Binary,Sydney,3.639999999999999,27.79
+134,Thai Fried Rice,15.05,7.74,62,Female,London,7.3100000000000005,48.57
+135,Tom Yum Soup,17.67,14.97,38,Male,Bangkok,2.700000000000001,15.28
+136,Tom Yum Soup,8.55,9.26,70,Male,NYC,-0.7099999999999991,-8.3
+137,Massaman Curry,19.19,9.51,35,Non-Binary,Bangkok,9.680000000000001,50.44
+138,Green Curry,16.79,6.64,54,Male,NYC,10.149999999999999,60.45
+139,Green Curry,9.14,12.95,62,Non-Binary,NYC,-3.8099999999999987,-41.68
+140,Thai Fried Rice,20.23,11.94,49,Male,London,8.290000000000001,40.98
+141,Pad Thai,20.89,7.21,53,Female,London,13.68,65.49
+142,Thai Fried Rice,8.86,5.82,34,Female,Bangkok,3.039999999999999,34.31
+143,Massaman Curry,11.88,11.8,52,Female,NYC,0.08000000000000007,0.67
+144,Massaman Curry,19.29,11.55,66,Female,Bangkok,7.739999999999998,40.12
+145,Massaman Curry,18.48,7.73,28,Non-Binary,Sydney,10.75,58.17
+146,Massaman Curry,10.58,14.51,38,Male,Bangkok,-3.9299999999999997,-37.15
+147,Massaman Curry,10.93,6.51,69,Non-Binary,Tokyo,4.42,40.44
+148,Tom Yum Soup,13.19,9.32,72,Female,Bangkok,3.869999999999999,29.34
+149,Green Curry,14.78,14.44,70,Non-Binary,Tokyo,0.33999999999999986,2.3
+150,Massaman Curry,16.66,9.2,43,Male,Tokyo,7.460000000000001,44.78
+151,Pad Thai,13.16,11.39,21,Non-Binary,Tokyo,1.7699999999999996,13.45
+152,Pad Thai,14.48,8.98,51,Male,Sydney,5.5,37.98
+153,Pad Thai,18.46,7.74,69,Non-Binary,Bangkok,10.72,58.07
+154,Pad Thai,8.51,14.84,65,Male,Bangkok,-6.33,-74.38
+155,Tom Yum Soup,11.53,9.09,35,Male,Sydney,2.4399999999999995,21.16
+156,Pad Thai,17.99,13.94,57,Female,NYC,4.049999999999999,22.51
+157,Massaman Curry,20.53,7.3,52,Male,London,13.23,64.44
+158,Thai Fried Rice,15.16,7.13,58,Female,Bangkok,8.030000000000001,52.97
+159,Pad Thai,15.45,5.31,46,Female,London,10.14,65.63
+160,Tom Yum Soup,9.5,11.52,69,Female,Sydney,-2.0199999999999996,-21.26
+161,Tom Yum Soup,14.26,8.69,46,Non-Binary,NYC,5.57,39.06
+162,Pad Thai,15.46,13.64,55,Non-Binary,NYC,1.8200000000000003,11.77
+163,Thai Fried Rice,11.39,9.73,59,Non-Binary,NYC,1.6600000000000001,14.57
+164,Pad Thai,11.77,14.68,38,Non-Binary,Sydney,-2.91,-24.72
+165,Tom Yum Soup,13.28,6.86,59,Male,Tokyo,6.419999999999999,48.34
+166,Green Curry,8.28,13.69,30,Male,Tokyo,-5.41,-65.34
+167,Massaman Curry,12.51,12.77,66,Non-Binary,London,-0.2599999999999998,-2.08
+168,Tom Yum Soup,10.96,12.71,58,Male,Tokyo,-1.75,-15.97
+169,Pad Thai,12.58,13.45,34,Male,Tokyo,-0.8699999999999992,-6.92
+170,Massaman Curry,9.68,12.61,73,Female,NYC,-2.9299999999999997,-30.27
+171,Pad Thai,20.47,11.26,26,Female,NYC,9.209999999999999,44.99
+172,Pad Thai,16.31,6.31,58,Female,London,10.0,61.31
+173,Green Curry,17.51,5.33,18,Female,Bangkok,12.180000000000001,69.56
+174,Massaman Curry,19.05,14.21,19,Male,London,4.84,25.41
+175,Massaman Curry,14.98,11.17,65,Non-Binary,London,3.8100000000000005,25.43
+176,Green Curry,9.22,12.97,46,Male,Sydney,-3.75,-40.67
+177,Tom Yum Soup,15.52,9.82,50,Male,Sydney,5.699999999999999,36.73
+178,Pad Thai,16.22,6.17,27,Male,London,10.049999999999999,61.96
+179,Thai Fried Rice,18.44,6.25,67,Female,London,12.190000000000001,66.11
+180,Pad Thai,14.04,11.86,57,Female,London,2.1799999999999997,15.53
+181,Pad Thai,9.79,9.3,38,Female,Tokyo,0.48999999999999844,5.01
+182,Tom Yum Soup,11.97,7.01,45,Non-Binary,Sydney,4.960000000000001,41.44
+183,Pad Thai,13.08,9.92,28,Male,London,3.16,24.16
+184,Green Curry,17.04,5.64,72,Non-Binary,NYC,11.399999999999999,66.9
+185,Green Curry,15.99,10.82,51,Female,NYC,5.17,32.33
+186,Massaman Curry,12.99,7.69,25,Non-Binary,Tokyo,5.3,40.8
+187,Thai Fried Rice,21.81,12.98,39,Male,Tokyo,8.829999999999998,40.49
+188,Pad Thai,16.48,8.1,25,Male,Bangkok,8.38,50.85
+189,Pad Thai,11.32,9.55,66,Female,Bangkok,1.7699999999999996,15.64
+190,Tom Yum Soup,9.42,5.12,32,Female,Bangkok,4.3,45.65
+191,Green Curry,10.14,5.72,34,Non-Binary,Tokyo,4.420000000000001,43.59
+192,Thai Fried Rice,11.44,8.92,40,Female,Tokyo,2.5199999999999996,22.03
+193,Massaman Curry,10.25,9.8,41,Female,Tokyo,0.4499999999999993,4.39
+194,Green Curry,10.61,11.0,62,Male,NYC,-0.39000000000000057,-3.68
+195,Massaman Curry,11.99,7.92,36,Female,Tokyo,4.07,33.94
+196,Tom Yum Soup,10.43,11.95,22,Female,NYC,-1.5199999999999996,-14.57
+197,Tom Yum Soup,20.55,13.6,49,Male,Bangkok,6.950000000000001,33.82
+198,Pad Thai,9.12,12.8,61,Male,Bangkok,-3.6800000000000015,-40.35
+199,Thai Fried Rice,15.34,5.4,18,Non-Binary,Bangkok,9.94,64.8
+200,Massaman Curry,13.75,9.81,40,Female,London,3.9399999999999995,28.65
+201,Green Curry,21.75,6.05,54,Male,London,15.7,72.18
+202,Tom Yum Soup,9.57,7.42,25,Non-Binary,Sydney,2.1500000000000004,22.47
+203,Pad Thai,13.57,14.87,30,Non-Binary,Sydney,-1.299999999999999,-9.58
+204,Pad Thai,21.57,6.42,25,Female,Sydney,15.15,70.24
+205,Massaman Curry,20.12,9.99,74,Female,London,10.13,50.35
+206,Tom Yum Soup,19.44,11.18,40,Non-Binary,London,8.260000000000002,42.49
+207,Thai Fried Rice,11.61,12.02,60,Male,Sydney,-0.41000000000000014,-3.53
+208,Tom Yum Soup,10.39,10.6,18,Non-Binary,Sydney,-0.20999999999999908,-2.02
+209,Massaman Curry,17.36,5.1,62,Female,Tokyo,12.26,70.62
+210,Massaman Curry,21.01,8.26,68,Male,Sydney,12.750000000000002,60.69
+211,Tom Yum Soup,15.79,10.18,41,Male,Tokyo,5.609999999999999,35.53
+212,Massaman Curry,16.0,5.88,52,Non-Binary,NYC,10.120000000000001,63.25
+213,Tom Yum Soup,11.92,8.51,41,Female,London,3.41,28.61
+214,Green Curry,18.77,5.33,34,Non-Binary,Sydney,13.44,71.6
+215,Tom Yum Soup,10.62,5.79,22,Non-Binary,London,4.829999999999999,45.48
+216,Tom Yum Soup,12.53,8.97,37,Non-Binary,London,3.5599999999999987,28.41
+217,Massaman Curry,13.96,6.33,38,Male,London,7.630000000000001,54.66
+218,Massaman Curry,15.11,10.68,57,Male,NYC,4.43,29.32
+219,Pad Thai,11.39,11.89,48,Female,Bangkok,-0.5,-4.39
+220,Pad Thai,9.61,13.01,63,Female,Sydney,-3.4000000000000004,-35.38
+221,Green Curry,16.55,7.0,53,Non-Binary,Bangkok,9.55,57.7
+222,Pad Thai,12.04,6.67,28,Non-Binary,Bangkok,5.369999999999999,44.6
+223,Tom Yum Soup,16.14,6.05,69,Non-Binary,Bangkok,10.09,62.52
+224,Massaman Curry,10.16,11.36,32,Female,London,-1.1999999999999993,-11.81
+225,Pad Thai,14.74,12.06,36,Male,Tokyo,2.6799999999999997,18.18
+226,Pad Thai,15.46,5.32,24,Male,London,10.14,65.59
+227,Green Curry,8.73,14.36,68,Non-Binary,London,-5.629999999999999,-64.49
+228,Green Curry,12.71,5.52,45,Non-Binary,Bangkok,7.190000000000001,56.57
+229,Tom Yum Soup,9.88,10.41,68,Non-Binary,London,-0.5299999999999994,-5.36
+230,Massaman Curry,8.89,12.09,60,Non-Binary,Bangkok,-3.1999999999999993,-36.0
+231,Green Curry,21.86,13.71,22,Female,Tokyo,8.149999999999999,37.28
+232,Pad Thai,12.51,12.14,22,Male,Sydney,0.3699999999999992,2.96
+233,Massaman Curry,19.34,13.02,47,Non-Binary,Bangkok,6.32,32.68
+234,Massaman Curry,11.56,8.39,71,Female,Tokyo,3.17,27.42
+235,Pad Thai,17.54,13.15,49,Non-Binary,Sydney,4.389999999999999,25.03
+236,Green Curry,18.64,5.8,25,Non-Binary,NYC,12.84,68.88
+237,Pad Thai,16.34,13.95,27,Male,Bangkok,2.3900000000000006,14.63
+238,Massaman Curry,14.6,10.48,55,Non-Binary,Bangkok,4.119999999999999,28.22
+239,Thai Fried Rice,13.77,13.17,64,Male,NYC,0.5999999999999996,4.36
+240,Thai Fried Rice,12.88,9.52,49,Male,NYC,3.360000000000001,26.09
+241,Tom Yum Soup,21.01,11.44,65,Male,Bangkok,9.570000000000002,45.55
+242,Pad Thai,19.63,10.26,45,Female,NYC,9.37,47.73
+243,Pad Thai,21.51,12.32,34,Female,London,9.190000000000001,42.72
+244,Tom Yum Soup,9.74,5.82,48,Male,Sydney,3.92,40.25
+245,Tom Yum Soup,18.23,5.6,25,Non-Binary,Sydney,12.63,69.28
+246,Tom Yum Soup,21.14,7.47,57,Male,Sydney,13.670000000000002,64.66
+247,Massaman Curry,10.54,6.6,42,Non-Binary,London,3.9399999999999995,37.38
+248,Pad Thai,8.93,13.72,26,Male,NYC,-4.790000000000001,-53.64
+249,Massaman Curry,18.38,7.19,19,Non-Binary,Tokyo,11.189999999999998,60.88
+250,Tom Yum Soup,16.04,14.76,32,Female,NYC,1.2799999999999994,7.98
+251,Pad Thai,19.79,8.37,67,Non-Binary,Bangkok,11.42,57.71
+252,Massaman Curry,9.96,6.82,20,Male,Sydney,3.1400000000000006,31.53
+253,Massaman Curry,19.13,12.9,66,Female,NYC,6.229999999999999,32.57
+254,Tom Yum Soup,10.82,11.59,53,Non-Binary,Tokyo,-0.7699999999999996,-7.12
+255,Pad Thai,10.29,9.98,21,Non-Binary,Bangkok,0.3099999999999987,3.01
+256,Tom Yum Soup,10.3,10.55,31,Non-Binary,London,-0.25,-2.43
+257,Pad Thai,19.4,12.19,58,Non-Binary,London,7.209999999999999,37.16
+258,Thai Fried Rice,17.31,7.28,58,Non-Binary,Tokyo,10.029999999999998,57.94
+259,Green Curry,15.32,14.96,42,Female,Bangkok,0.35999999999999943,2.35
+260,Green Curry,13.02,14.75,72,Female,Sydney,-1.7300000000000004,-13.29
+261,Green Curry,20.28,11.5,67,Female,NYC,8.780000000000001,43.29
+262,Tom Yum Soup,13.49,7.0,27,Female,Bangkok,6.49,48.11
+263,Thai Fried Rice,19.43,11.8,38,Male,London,7.629999999999999,39.27
+264,Pad Thai,14.15,5.72,53,Female,Tokyo,8.43,59.58
+265,Massaman Curry,13.28,5.31,29,Non-Binary,Tokyo,7.97,60.02
+266,Pad Thai,14.48,7.58,44,Non-Binary,NYC,6.9,47.65
+267,Massaman Curry,12.22,9.63,57,Female,Tokyo,2.59,21.19
+268,Pad Thai,18.47,13.68,19,Non-Binary,Tokyo,4.789999999999999,25.93
+269,Thai Fried Rice,15.04,12.27,71,Female,Bangkok,2.7699999999999996,18.42
+270,Massaman Curry,11.25,12.43,30,Non-Binary,Sydney,-1.1799999999999997,-10.49
+271,Tom Yum Soup,20.59,9.25,70,Male,NYC,11.34,55.08
+272,Pad Thai,13.37,8.46,49,Male,Bangkok,4.909999999999998,36.72
+273,Pad Thai,15.61,8.71,48,Female,Sydney,6.899999999999999,44.2
+274,Massaman Curry,20.69,14.88,33,Female,Bangkok,5.8100000000000005,28.08
+275,Tom Yum Soup,16.74,5.4,49,Female,Bangkok,11.339999999999998,67.74
+276,Tom Yum Soup,9.64,13.67,49,Non-Binary,Tokyo,-4.029999999999999,-41.8
+277,Thai Fried Rice,21.16,10.79,51,Female,Sydney,10.370000000000001,49.01
+278,Tom Yum Soup,16.79,9.39,28,Male,NYC,7.399999999999999,44.07
+279,Tom Yum Soup,12.69,12.25,27,Non-Binary,NYC,0.4399999999999995,3.47
+280,Tom Yum Soup,9.95,9.87,32,Female,Sydney,0.08000000000000007,0.8
+281,Green Curry,19.12,13.73,34,Non-Binary,Tokyo,5.390000000000001,28.19
+282,Thai Fried Rice,16.68,14.01,57,Non-Binary,London,2.67,16.01
+283,Pad Thai,15.47,9.22,35,Female,Bangkok,6.25,40.4
+284,Massaman Curry,20.51,7.77,72,Non-Binary,Tokyo,12.740000000000002,62.12
+285,Pad Thai,19.04,10.92,26,Male,Sydney,8.12,42.65
+286,Thai Fried Rice,10.12,14.12,42,Male,Bangkok,-4.0,-39.53
+287,Massaman Curry,12.36,7.11,57,Non-Binary,NYC,5.249999999999999,42.48
+288,Thai Fried Rice,11.48,11.23,31,Female,London,0.25,2.18
+289,Tom Yum Soup,18.42,11.32,42,Non-Binary,NYC,7.100000000000001,38.55
+290,Massaman Curry,8.47,12.33,67,Male,Sydney,-3.8599999999999994,-45.57
+291,Tom Yum Soup,15.98,6.32,39,Non-Binary,Bangkok,9.66,60.45
+292,Pad Thai,18.67,12.16,69,Non-Binary,Sydney,6.510000000000002,34.87
+293,Pad Thai,20.27,14.09,47,Male,Bangkok,6.18,30.49
+294,Massaman Curry,12.79,6.8,37,Non-Binary,Tokyo,5.989999999999999,46.83
+295,Massaman Curry,19.5,7.38,38,Non-Binary,London,12.120000000000001,62.15
+296,Thai Fried Rice,9.55,14.71,61,Female,Tokyo,-5.16,-54.03
+297,Thai Fried Rice,19.85,6.81,49,Female,Tokyo,13.040000000000003,65.69
+298,Tom Yum Soup,9.78,13.54,68,Male,Sydney,-3.76,-38.45
+299,Massaman Curry,13.56,9.92,63,Male,London,3.6400000000000006,26.84
+300,Pad Thai,19.16,7.47,66,Male,Bangkok,11.690000000000001,61.01
+301,Thai Fried Rice,10.1,13.71,73,Female,Bangkok,-3.610000000000001,-35.74
+302,Thai Fried Rice,11.21,9.45,38,Male,NYC,1.7600000000000016,15.7
+303,Pad Thai,18.11,10.15,52,Male,Bangkok,7.959999999999999,43.95
+304,Thai Fried Rice,18.08,8.59,49,Male,Sydney,9.489999999999998,52.49
+305,Tom Yum Soup,16.98,10.93,47,Female,Tokyo,6.050000000000001,35.63
+306,Massaman Curry,17.72,6.64,72,Non-Binary,Tokyo,11.079999999999998,62.53
+307,Pad Thai,15.6,8.91,56,Male,Tokyo,6.6899999999999995,42.88
+308,Massaman Curry,11.53,14.69,66,Non-Binary,London,-3.16,-27.41
+309,Thai Fried Rice,12.84,7.58,29,Male,Bangkok,5.26,40.97
+310,Thai Fried Rice,10.54,11.57,58,Non-Binary,Sydney,-1.0300000000000011,-9.77
+311,Pad Thai,20.72,8.25,64,Female,London,12.469999999999999,60.18
+312,Tom Yum Soup,16.17,12.73,35,Female,NYC,3.4400000000000013,21.27
+313,Green Curry,13.61,6.31,38,Male,Sydney,7.3,53.64
+314,Pad Thai,14.47,14.7,30,Non-Binary,Sydney,-0.22999999999999865,-1.59
+315,Green Curry,21.26,9.54,38,Female,Sydney,11.720000000000002,55.13
+316,Green Curry,10.15,7.36,25,Male,Tokyo,2.79,27.49
+317,Tom Yum Soup,16.21,5.73,63,Male,Sydney,10.48,64.65
+318,Green Curry,15.08,6.7,57,Female,Bangkok,8.379999999999999,55.57
+319,Green Curry,16.56,10.2,63,Female,Sydney,6.359999999999999,38.41
+320,Tom Yum Soup,8.25,8.37,24,Male,Tokyo,-0.11999999999999922,-1.45
+321,Green Curry,20.21,13.29,40,Non-Binary,Sydney,6.920000000000002,34.24
+322,Green Curry,21.05,9.31,61,Non-Binary,NYC,11.74,55.77
+323,Green Curry,15.91,7.49,49,Non-Binary,NYC,8.42,52.92
+324,Pad Thai,17.75,11.17,28,Male,Tokyo,6.58,37.07
+325,Pad Thai,20.91,12.07,39,Female,Bangkok,8.84,42.28
+326,Pad Thai,17.9,6.67,39,Male,Bangkok,11.229999999999999,62.74
+327,Tom Yum Soup,10.14,6.68,60,Female,London,3.460000000000001,34.12
+328,Thai Fried Rice,16.07,5.37,42,Non-Binary,Tokyo,10.7,66.58
+329,Green Curry,16.49,12.36,39,Non-Binary,Sydney,4.129999999999999,25.05
+330,Green Curry,13.94,11.64,45,Female,Tokyo,2.299999999999999,16.5
+331,Tom Yum Soup,18.31,9.75,46,Female,London,8.559999999999999,46.75
+332,Green Curry,21.08,13.44,30,Male,Tokyo,7.639999999999999,36.24
+333,Pad Thai,20.96,13.06,35,Non-Binary,Tokyo,7.9,37.69
+334,Thai Fried Rice,14.31,10.85,19,Male,London,3.460000000000001,24.18
+335,Massaman Curry,9.59,13.68,46,Male,Bangkok,-4.09,-42.65
+336,Green Curry,21.79,7.06,38,Male,Sydney,14.73,67.6
+337,Pad Thai,19.74,6.12,32,Non-Binary,London,13.619999999999997,69.0
+338,Massaman Curry,9.75,7.7,69,Male,NYC,2.05,21.03
+339,Thai Fried Rice,20.89,5.57,44,Male,Bangkok,15.32,73.34
+340,Massaman Curry,20.18,10.31,67,Male,NYC,9.87,48.91
+341,Pad Thai,15.26,14.37,48,Male,Bangkok,0.8900000000000006,5.83
+342,Massaman Curry,16.28,5.39,32,Male,Sydney,10.89,66.89
+343,Tom Yum Soup,13.59,6.22,68,Male,Sydney,7.37,54.23
+344,Massaman Curry,8.77,9.52,40,Non-Binary,Tokyo,-0.75,-8.55
+345,Green Curry,12.69,14.34,41,Male,NYC,-1.6500000000000004,-13.0
+346,Green Curry,19.24,8.16,61,Female,Bangkok,11.079999999999998,57.59
+347,Tom Yum Soup,8.06,10.07,30,Male,Sydney,-2.01,-24.94
+348,Pad Thai,12.67,5.42,39,Male,London,7.25,57.22
+349,Green Curry,13.57,6.48,60,Non-Binary,Sydney,7.09,52.25
+350,Thai Fried Rice,15.52,14.87,54,Non-Binary,London,0.6500000000000004,4.19
+351,Green Curry,20.88,14.65,50,Female,Bangkok,6.229999999999999,29.84
+352,Green Curry,12.85,5.05,73,Female,Sydney,7.8,60.7
+353,Pad Thai,12.86,14.52,20,Non-Binary,Sydney,-1.6600000000000001,-12.91
+354,Massaman Curry,18.33,11.39,71,Non-Binary,Bangkok,6.939999999999998,37.86
+355,Green Curry,14.33,13.68,36,Male,Sydney,0.6500000000000004,4.54
+356,Tom Yum Soup,11.14,9.55,40,Non-Binary,London,1.5899999999999999,14.27
+357,Massaman Curry,14.33,10.16,46,Female,Sydney,4.17,29.1
+358,Thai Fried Rice,9.97,9.89,47,Male,NYC,0.08000000000000007,0.8
+359,Pad Thai,10.47,11.67,56,Female,Tokyo,-1.1999999999999993,-11.46
+360,Thai Fried Rice,14.98,6.4,61,Male,London,8.58,57.28
+361,Massaman Curry,13.86,5.3,64,Non-Binary,NYC,8.559999999999999,61.76
+362,Massaman Curry,20.81,8.08,42,Female,Bangkok,12.729999999999999,61.17
+363,Massaman Curry,13.07,12.05,54,Male,London,1.0199999999999996,7.8
+364,Thai Fried Rice,16.13,7.02,64,Male,Tokyo,9.11,56.48
+365,Massaman Curry,16.85,11.73,25,Non-Binary,Tokyo,5.120000000000001,30.39
+366,Thai Fried Rice,8.18,14.7,59,Non-Binary,Bangkok,-6.52,-79.71
+367,Massaman Curry,17.29,5.94,33,Non-Binary,Bangkok,11.349999999999998,65.64
+368,Tom Yum Soup,10.49,11.73,25,Female,London,-1.2400000000000002,-11.82
+369,Massaman Curry,21.45,9.44,18,Male,Sydney,12.01,55.99
+370,Thai Fried Rice,10.08,13.68,61,Non-Binary,Bangkok,-3.5999999999999996,-35.71
+371,Green Curry,13.8,6.77,22,Female,Sydney,7.030000000000001,50.94
+372,Massaman Curry,9.19,11.93,20,Female,NYC,-2.74,-29.82
+373,Green Curry,21.96,13.38,18,Female,Tokyo,8.58,39.07
+374,Tom Yum Soup,15.03,14.45,21,Non-Binary,Sydney,0.5800000000000001,3.86
+375,Pad Thai,16.34,11.83,57,Non-Binary,Tokyo,4.51,27.6
+376,Tom Yum Soup,8.94,9.97,52,Male,Sydney,-1.0300000000000011,-11.52
+377,Massaman Curry,18.5,11.18,49,Male,NYC,7.32,39.57
+378,Green Curry,10.94,13.69,59,Non-Binary,Bangkok,-2.75,-25.14
+379,Green Curry,20.57,10.71,51,Female,NYC,9.86,47.93
+380,Thai Fried Rice,10.87,5.3,60,Female,Bangkok,5.569999999999999,51.24
+381,Green Curry,10.67,14.31,42,Female,Bangkok,-3.6400000000000006,-34.11
+382,Thai Fried Rice,8.51,11.9,27,Male,Tokyo,-3.3900000000000006,-39.84
+383,Pad Thai,14.61,11.77,38,Female,NYC,2.84,19.44
+384,Massaman Curry,15.91,7.16,63,Male,Sydney,8.75,55.0
+385,Thai Fried Rice,8.92,11.59,56,Male,NYC,-2.67,-29.93
+386,Pad Thai,18.86,8.94,44,Female,Tokyo,9.92,52.6
+387,Green Curry,14.35,11.51,44,Female,Bangkok,2.84,19.79
+388,Green Curry,15.34,6.07,19,Non-Binary,Tokyo,9.27,60.43
+389,Pad Thai,14.17,11.58,58,Non-Binary,London,2.59,18.28
+390,Green Curry,13.61,14.99,65,Female,London,-1.3800000000000008,-10.14
+391,Pad Thai,15.83,5.48,30,Male,Sydney,10.35,65.38
+392,Thai Fried Rice,10.17,14.77,26,Male,Tokyo,-4.6,-45.23
+393,Thai Fried Rice,10.55,9.07,69,Male,Sydney,1.4800000000000004,14.03
+394,Pad Thai,20.06,13.71,53,Male,Sydney,6.349999999999998,31.66
+395,Thai Fried Rice,21.25,12.82,39,Male,London,8.43,39.67
+396,Thai Fried Rice,13.23,10.67,59,Non-Binary,Sydney,2.5600000000000005,19.35
+397,Thai Fried Rice,11.79,12.38,43,Female,London,-0.5900000000000016,-5.0
+398,Tom Yum Soup,17.02,13.79,71,Non-Binary,Bangkok,3.2300000000000004,18.98
+399,Massaman Curry,13.72,9.04,29,Male,Tokyo,4.6800000000000015,34.11
+400,Green Curry,8.36,8.27,34,Male,Sydney,0.08999999999999986,1.08
+401,Tom Yum Soup,10.19,11.68,31,Male,London,-1.4900000000000002,-14.62
+402,Thai Fried Rice,18.02,13.08,31,Male,NYC,4.9399999999999995,27.41
+403,Pad Thai,17.22,12.62,74,Female,Sydney,4.6,26.71
+404,Thai Fried Rice,8.38,12.98,51,Male,Bangkok,-4.6,-54.89
+405,Massaman Curry,11.11,9.36,70,Female,Bangkok,1.75,15.75
+406,Thai Fried Rice,11.24,13.18,74,Male,NYC,-1.9399999999999995,-17.26
+407,Pad Thai,17.41,6.2,37,Female,London,11.21,64.39
+408,Massaman Curry,8.28,10.44,28,Non-Binary,Sydney,-2.16,-26.09
+409,Thai Fried Rice,9.46,5.06,33,Male,London,4.400000000000001,46.51
+410,Massaman Curry,19.2,8.25,68,Female,Bangkok,10.95,57.03
+411,Green Curry,10.5,8.66,48,Non-Binary,London,1.8399999999999999,17.52
+412,Green Curry,17.14,8.96,72,Male,Bangkok,8.18,47.72
+413,Thai Fried Rice,11.33,11.95,23,Male,London,-0.6199999999999992,-5.47
+414,Massaman Curry,9.39,8.89,73,Male,NYC,0.5,5.32
+415,Pad Thai,11.4,9.49,36,Female,Tokyo,1.9100000000000001,16.75
+416,Thai Fried Rice,18.11,7.38,54,Female,NYC,10.73,59.25
+417,Green Curry,19.98,8.73,21,Non-Binary,NYC,11.25,56.31
+418,Green Curry,19.62,7.27,64,Female,Tokyo,12.350000000000001,62.95
+419,Thai Fried Rice,13.56,5.73,21,Female,Tokyo,7.83,57.74
+420,Massaman Curry,17.35,11.03,37,Male,Sydney,6.320000000000002,36.43
+421,Green Curry,10.87,11.68,27,Male,Sydney,-0.8100000000000005,-7.45
+422,Massaman Curry,12.1,11.19,41,Male,NYC,0.9100000000000001,7.52
+423,Green Curry,20.55,9.63,71,Male,NYC,10.92,53.14
+424,Green Curry,8.18,8.8,52,Male,Bangkok,-0.620000000000001,-7.58
+425,Tom Yum Soup,9.2,13.63,43,Male,Bangkok,-4.4300000000000015,-48.15
+426,Green Curry,10.91,10.19,54,Male,Sydney,0.7200000000000006,6.6
+427,Pad Thai,8.37,9.79,55,Non-Binary,Sydney,-1.42,-16.97
+428,Thai Fried Rice,10.54,5.26,38,Non-Binary,Bangkok,5.279999999999999,50.09
+429,Thai Fried Rice,16.16,8.41,71,Non-Binary,Bangkok,7.75,47.96
+430,Massaman Curry,13.9,8.8,57,Non-Binary,London,5.1,36.69
+431,Green Curry,20.5,8.99,56,Male,London,11.51,56.15
+432,Pad Thai,19.44,10.8,38,Non-Binary,Bangkok,8.64,44.44
+433,Massaman Curry,12.79,10.34,27,Male,London,2.4499999999999993,19.16
+434,Tom Yum Soup,11.63,11.08,55,Non-Binary,Tokyo,0.5500000000000007,4.73
+435,Massaman Curry,13.32,12.65,63,Female,Sydney,0.6699999999999999,5.03
+436,Massaman Curry,16.26,13.13,21,Non-Binary,Sydney,3.130000000000001,19.25
+437,Green Curry,11.75,12.18,74,Non-Binary,Bangkok,-0.4299999999999997,-3.66
+438,Tom Yum Soup,16.74,14.56,62,Male,NYC,2.179999999999998,13.02
+439,Massaman Curry,13.73,5.18,37,Non-Binary,Bangkok,8.55,62.27
+440,Pad Thai,15.73,6.96,34,Female,London,8.77,55.75
+441,Pad Thai,14.11,5.08,72,Male,NYC,9.03,64.0
+442,Thai Fried Rice,12.12,11.47,24,Male,London,0.6499999999999986,5.36
+443,Tom Yum Soup,21.28,13.98,21,Non-Binary,Tokyo,7.300000000000001,34.3
+444,Tom Yum Soup,18.69,7.43,46,Male,London,11.260000000000002,60.25
+445,Thai Fried Rice,9.96,14.27,31,Male,Tokyo,-4.309999999999999,-43.27
+446,Massaman Curry,20.16,5.6,20,Male,Tokyo,14.56,72.22
+447,Tom Yum Soup,14.82,14.34,41,Male,London,0.4800000000000004,3.24
+448,Pad Thai,20.52,8.52,54,Male,London,12.0,58.48
+449,Pad Thai,19.2,6.01,33,Male,Tokyo,13.19,68.7
+450,Green Curry,13.95,9.86,72,Female,NYC,4.09,29.32
+451,Tom Yum Soup,8.31,7.57,69,Non-Binary,Tokyo,0.7400000000000002,8.9
+452,Massaman Curry,11.76,7.85,21,Female,Sydney,3.91,33.25
+453,Thai Fried Rice,15.58,8.07,73,Male,Tokyo,7.51,48.2
+454,Thai Fried Rice,16.87,13.03,41,Male,NYC,3.8400000000000016,22.76
+455,Massaman Curry,11.61,10.39,51,Non-Binary,Sydney,1.2199999999999989,10.51
+456,Green Curry,9.95,8.11,47,Female,Bangkok,1.8399999999999999,18.49
+457,Thai Fried Rice,19.69,11.1,35,Non-Binary,Bangkok,8.590000000000002,43.63
+458,Tom Yum Soup,21.78,12.16,36,Female,NYC,9.620000000000001,44.17
+459,Green Curry,15.36,7.73,48,Male,Tokyo,7.629999999999999,49.67
+460,Tom Yum Soup,10.4,9.14,36,Non-Binary,London,1.2599999999999998,12.12
+461,Pad Thai,11.81,6.22,66,Non-Binary,NYC,5.590000000000001,47.33
+462,Green Curry,8.26,6.81,63,Male,Sydney,1.4500000000000002,17.55
+463,Thai Fried Rice,20.8,11.81,36,Non-Binary,Sydney,8.99,43.22
+464,Green Curry,9.65,6.81,39,Female,Bangkok,2.8400000000000007,29.43
+465,Green Curry,16.07,10.25,41,Female,Sydney,5.82,36.22
+466,Green Curry,11.84,12.09,62,Female,NYC,-0.25,-2.11
+467,Green Curry,15.76,6.07,29,Female,Sydney,9.69,61.48
+468,Tom Yum Soup,17.12,10.67,47,Male,NYC,6.450000000000001,37.68
+469,Pad Thai,19.62,7.57,55,Non-Binary,London,12.05,61.42
+470,Massaman Curry,10.89,14.63,70,Female,Bangkok,-3.74,-34.34
+471,Green Curry,8.15,9.84,48,Male,Sydney,-1.6899999999999995,-20.74
+472,Thai Fried Rice,9.92,13.06,53,Non-Binary,NYC,-3.1400000000000006,-31.65
+473,Green Curry,20.6,10.5,36,Non-Binary,Tokyo,10.100000000000001,49.03
+474,Thai Fried Rice,20.23,5.43,65,Male,Bangkok,14.8,73.16
+475,Tom Yum Soup,16.36,11.33,62,Male,London,5.029999999999999,30.75
+476,Thai Fried Rice,16.41,14.51,53,Female,NYC,1.9000000000000004,11.58
+477,Massaman Curry,17.31,11.02,47,Non-Binary,London,6.289999999999999,36.34
+478,Pad Thai,10.46,13.19,72,Non-Binary,London,-2.7299999999999986,-26.1
+479,Thai Fried Rice,20.8,13.84,66,Male,Sydney,6.960000000000001,33.46
+480,Thai Fried Rice,13.86,7.28,72,Non-Binary,Sydney,6.579999999999999,47.47
+481,Pad Thai,13.36,7.12,50,Female,NYC,6.239999999999999,46.71
+482,Massaman Curry,15.26,11.11,35,Non-Binary,Tokyo,4.15,27.2
+483,Green Curry,8.66,9.11,69,Male,NYC,-0.4499999999999993,-5.2
+484,Thai Fried Rice,10.33,13.4,66,Male,Tokyo,-3.0700000000000003,-29.72
+485,Pad Thai,18.33,14.0,45,Female,London,4.329999999999998,23.62
+486,Tom Yum Soup,9.16,8.53,64,Female,Bangkok,0.6300000000000008,6.88
+487,Pad Thai,16.44,7.37,28,Non-Binary,NYC,9.07,55.17
+488,Tom Yum Soup,11.43,12.81,74,Non-Binary,NYC,-1.3800000000000008,-12.07
+489,Massaman Curry,13.45,7.75,71,Male,Tokyo,5.699999999999999,42.38
+490,Green Curry,12.04,13.23,62,Female,London,-1.1900000000000013,-9.88
+491,Pad Thai,12.98,9.24,50,Female,London,3.74,28.81
+492,Thai Fried Rice,18.07,11.68,34,Female,Tokyo,6.390000000000001,35.36
+493,Massaman Curry,12.16,5.96,23,Non-Binary,London,6.2,50.99
+494,Pad Thai,15.93,11.24,21,Female,Sydney,4.6899999999999995,29.44
+495,Thai Fried Rice,14.66,9.52,37,Male,Bangkok,5.140000000000001,35.06
+496,Pad Thai,17.29,10.87,65,Male,NYC,6.42,37.13
+497,Tom Yum Soup,21.12,6.68,64,Non-Binary,Bangkok,14.440000000000001,68.37
+498,Pad Thai,18.26,12.37,44,Non-Binary,NYC,5.890000000000002,32.26
+499,Pad Thai,11.01,13.63,32,Female,Sydney,-2.620000000000001,-23.8
+500,Pad Thai,8.44,7.17,23,Non-Binary,London,1.2699999999999996,15.05
+501,Massaman Curry,11.67,5.96,64,Male,Tokyo,5.71,48.93
+502,Pad Thai,16.33,5.24,31,Female,Sydney,11.089999999999998,67.91
+503,Thai Fried Rice,8.72,11.42,28,Male,Bangkok,-2.6999999999999993,-30.96
+504,Tom Yum Soup,14.95,11.07,56,Female,Tokyo,3.879999999999999,25.95
+505,Tom Yum Soup,16.36,10.47,26,Non-Binary,London,5.889999999999999,36.0
+506,Pad Thai,12.68,7.32,43,Female,Sydney,5.359999999999999,42.27
+507,Massaman Curry,18.79,8.91,33,Female,Tokyo,9.879999999999999,52.58
+508,Massaman Curry,9.49,10.94,22,Male,Sydney,-1.4499999999999993,-15.28
+509,Thai Fried Rice,9.05,9.97,74,Male,Sydney,-0.9199999999999999,-10.17
+510,Pad Thai,18.19,14.88,69,Female,London,3.3100000000000005,18.2
+511,Tom Yum Soup,14.94,6.36,27,Non-Binary,NYC,8.579999999999998,57.43
+512,Massaman Curry,17.64,11.95,67,Non-Binary,Tokyo,5.690000000000001,32.26
+513,Pad Thai,14.09,9.04,20,Male,London,5.050000000000001,35.84
+514,Massaman Curry,11.45,9.28,30,Non-Binary,Sydney,2.17,18.95
+515,Massaman Curry,19.47,12.18,60,Male,London,7.289999999999999,37.44
+516,Tom Yum Soup,19.19,11.92,66,Non-Binary,NYC,7.270000000000001,37.88
+517,Green Curry,17.73,14.91,47,Female,Tokyo,2.8200000000000003,15.91
+518,Thai Fried Rice,11.81,6.28,71,Male,NYC,5.53,46.82
+519,Thai Fried Rice,16.26,6.04,62,Male,Bangkok,10.220000000000002,62.85
+520,Tom Yum Soup,13.05,12.24,23,Female,Tokyo,0.8100000000000005,6.21
+521,Massaman Curry,9.28,10.78,34,Male,NYC,-1.5,-16.16
+522,Pad Thai,20.84,7.74,62,Non-Binary,Sydney,13.1,62.86
+523,Massaman Curry,9.92,5.79,68,Non-Binary,Tokyo,4.13,41.63
+524,Tom Yum Soup,21.3,5.86,70,Male,Tokyo,15.440000000000001,72.49
+525,Thai Fried Rice,14.24,13.94,36,Non-Binary,London,0.3000000000000007,2.11
+526,Massaman Curry,10.59,6.92,59,Male,Sydney,3.67,34.66
+527,Thai Fried Rice,15.59,8.23,52,Female,Bangkok,7.359999999999999,47.21
+528,Pad Thai,20.22,7.27,63,Male,NYC,12.95,64.05
+529,Thai Fried Rice,18.25,8.55,43,Female,London,9.7,53.15
+530,Thai Fried Rice,19.29,5.69,68,Non-Binary,NYC,13.599999999999998,70.5
+531,Green Curry,17.22,10.19,22,Female,Bangkok,7.029999999999999,40.82
+532,Green Curry,17.69,5.68,46,Non-Binary,Bangkok,12.010000000000002,67.89
+533,Green Curry,19.89,13.0,54,Male,Tokyo,6.890000000000001,34.64
+534,Thai Fried Rice,11.5,7.34,37,Non-Binary,Bangkok,4.16,36.17
+535,Tom Yum Soup,14.85,10.4,66,Male,NYC,4.449999999999999,29.97
+536,Thai Fried Rice,11.1,13.8,38,Male,Sydney,-2.700000000000001,-24.32
+537,Tom Yum Soup,21.83,11.51,27,Female,Sydney,10.319999999999999,47.27
+538,Tom Yum Soup,21.22,10.33,22,Female,Tokyo,10.889999999999999,51.32
+539,Green Curry,8.55,8.24,53,Female,NYC,0.3100000000000005,3.63
+540,Massaman Curry,17.88,8.33,23,Female,NYC,9.549999999999999,53.41
+541,Pad Thai,20.95,11.69,43,Non-Binary,Bangkok,9.26,44.2
+542,Green Curry,10.53,14.94,21,Non-Binary,NYC,-4.41,-41.88
+543,Green Curry,15.95,11.62,56,Non-Binary,London,4.33,27.15
+544,Massaman Curry,20.82,10.58,56,Male,Bangkok,10.24,49.18
+545,Pad Thai,8.48,12.31,67,Non-Binary,London,-3.83,-45.17
+546,Thai Fried Rice,17.76,9.65,52,Non-Binary,Tokyo,8.110000000000001,45.66
+547,Thai Fried Rice,12.16,5.6,18,Non-Binary,Sydney,6.5600000000000005,53.95
+548,Green Curry,20.94,10.62,41,Female,Tokyo,10.320000000000002,49.28
+549,Pad Thai,21.59,14.58,74,Non-Binary,Sydney,7.01,32.47
+550,Green Curry,21.22,6.75,53,Male,Tokyo,14.469999999999999,68.19
+551,Tom Yum Soup,14.64,11.9,23,Female,NYC,2.74,18.72
+552,Green Curry,20.07,7.01,58,Male,London,13.06,65.07
+553,Green Curry,19.82,10.36,71,Non-Binary,Sydney,9.46,47.73
+554,Thai Fried Rice,12.47,5.97,63,Female,Bangkok,6.500000000000001,52.13
+555,Thai Fried Rice,19.6,9.5,61,Male,London,10.100000000000001,51.53
+556,Thai Fried Rice,8.52,12.56,74,Non-Binary,Bangkok,-4.040000000000001,-47.42
+557,Tom Yum Soup,16.35,8.48,48,Male,London,7.870000000000001,48.13
+558,Thai Fried Rice,11.22,11.65,37,Male,London,-0.4299999999999997,-3.83
+559,Pad Thai,9.69,12.95,41,Male,Tokyo,-3.26,-33.64
+560,Massaman Curry,9.08,14.27,42,Non-Binary,Sydney,-5.1899999999999995,-57.16
+561,Pad Thai,17.75,7.35,53,Non-Binary,Sydney,10.4,58.59
+562,Pad Thai,12.76,8.99,38,Male,London,3.7699999999999996,29.55
+563,Thai Fried Rice,18.15,6.52,47,Female,NYC,11.629999999999999,64.08
+564,Massaman Curry,8.91,14.92,41,Female,NYC,-6.01,-67.45
+565,Massaman Curry,12.41,14.27,61,Non-Binary,Bangkok,-1.8599999999999994,-14.99
+566,Massaman Curry,15.55,10.4,59,Non-Binary,Bangkok,5.15,33.12
+567,Tom Yum Soup,19.07,13.42,47,Non-Binary,Tokyo,5.65,29.63
+568,Thai Fried Rice,12.46,10.21,39,Non-Binary,London,2.25,18.06
+569,Massaman Curry,16.76,11.24,45,Non-Binary,Bangkok,5.520000000000001,32.94
+570,Tom Yum Soup,20.4,5.89,24,Female,Bangkok,14.509999999999998,71.13
+571,Green Curry,16.62,12.55,52,Non-Binary,London,4.07,24.49
+572,Green Curry,11.26,6.28,72,Male,Tokyo,4.9799999999999995,44.23
+573,Tom Yum Soup,8.34,13.26,45,Male,Bangkok,-4.92,-58.99
+574,Tom Yum Soup,20.18,12.82,31,Female,Tokyo,7.359999999999999,36.47
+575,Thai Fried Rice,8.3,12.09,73,Male,Sydney,-3.789999999999999,-45.66
+576,Thai Fried Rice,20.25,5.36,27,Female,Tokyo,14.89,73.53
+577,Green Curry,15.41,8.03,33,Female,NYC,7.380000000000001,47.89
+578,Massaman Curry,21.15,7.63,33,Male,NYC,13.52,63.92
+579,Green Curry,19.18,8.6,71,Non-Binary,Tokyo,10.58,55.16
+580,Massaman Curry,21.97,5.88,48,Male,NYC,16.09,73.24
+581,Massaman Curry,12.91,14.37,59,Male,Sydney,-1.459999999999999,-11.31
+582,Thai Fried Rice,18.74,10.54,42,Female,London,8.2,43.76
+583,Pad Thai,13.63,8.06,30,Male,NYC,5.57,40.87
+584,Pad Thai,14.72,8.97,23,Female,NYC,5.75,39.06
+585,Tom Yum Soup,16.79,9.47,61,Non-Binary,Tokyo,7.3199999999999985,43.6
+586,Thai Fried Rice,20.23,11.01,26,Non-Binary,Sydney,9.22,45.58
+587,Massaman Curry,21.78,10.16,62,Non-Binary,London,11.620000000000001,53.35
+588,Pad Thai,18.76,14.19,53,Male,Tokyo,4.570000000000002,24.36
+589,Massaman Curry,13.85,9.97,73,Female,Tokyo,3.879999999999999,28.01
+590,Pad Thai,13.9,14.92,60,Non-Binary,Sydney,-1.0199999999999996,-7.34
+591,Pad Thai,18.33,13.51,37,Female,London,4.8199999999999985,26.3
+592,Pad Thai,11.34,7.09,35,Female,Sydney,4.25,37.48
+593,Thai Fried Rice,9.55,14.31,60,Non-Binary,London,-4.76,-49.84
+594,Green Curry,12.96,6.16,74,Non-Binary,Sydney,6.800000000000001,52.47
+595,Massaman Curry,12.02,13.17,38,Female,Tokyo,-1.1500000000000004,-9.57
+596,Thai Fried Rice,12.15,8.81,21,Non-Binary,Tokyo,3.34,27.49
+597,Thai Fried Rice,11.27,13.78,67,Female,Bangkok,-2.51,-22.27
+598,Thai Fried Rice,8.59,13.68,50,Female,NYC,-5.09,-59.25
+599,Thai Fried Rice,8.25,13.06,44,Non-Binary,Sydney,-4.8100000000000005,-58.3
+600,Thai Fried Rice,21.83,12.9,24,Male,Bangkok,8.929999999999998,40.91
