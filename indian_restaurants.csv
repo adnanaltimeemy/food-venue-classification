@@ -1,0 +1,62 @@
+import pandas as pd
+import random
+
+def generate_restaurant_data(num_records=50):
+    names = [
+        "Spice Garden", "Tandoori Flames", "Bombay Bistro",
+        "Curry Palace", "Royal Hyderabad House", "Masala Junction",
+        "Desi Delight", "Kolkata Kathi Roll House",
+        "Madras Cafe", "Saffron Lounge"
+    ]
+
+    cities = [
+        ("New York", "NY"),
+        ("Los Angeles", "CA"),
+        ("Chicago", "IL"),
+        ("Houston", "TX"),
+        ("San Francisco", "CA"),
+        ("Seattle", "WA"),
+        ("Atlanta", "GA"),
+        ("Boston", "MA"),
+        ("Dallas", "TX"),
+        ("Miami", "FL")
+    ]
+
+    cuisines = [
+        "North Indian", "South Indian", "Punjabi",
+        "Gujarati", "Bengali", "Hyderabadi",
+        "Kerala", "Rajasthani", "Fusion",
+        "Vegetarian"
+    ]
+
+    data = []
+
+    for i in range(1, num_records + 1):
+        city, state = random.choice(cities)
+
+        restaurant = {
+            "Restaurant_ID": i,
+            "Name": random.choice(names),
+            "City": city,
+            "State": state,
+            "Rating": round(random.uniform(3.5, 5.0), 1),
+            "Cuisine_Type": random.choice(cuisines),
+            "Average_Cost_for_Two_USD": random.randint(30, 100),
+            "Seating_Capacity": random.randint(40, 150),
+            "Has_Online_Delivery": random.choice([True, False]),
+            "Phone_Number": f"+1-{random.randint(200,999)}-555-{random.randint(1000,9999)}"
+        }
+
+        data.append(restaurant)
+
+    return pd.DataFrame(data)
+
+
+def main():
+    df = generate_restaurant_data(100)  # Change number for more/less records
+    df.to_csv("indian_restaurants.csv", index=False)
+    print("indian_restaurants.csv file created successfully!")
+
+
+if __name__ == "__main__":
+    main()

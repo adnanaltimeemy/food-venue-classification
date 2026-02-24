@@ -1,0 +1,4 @@
+import,pandas,as,pd,monthly_sales,profit_margin,avg_customer_age,dominant_segment
+import,random,,,16795,30.62,36,Working Professional
+def,generate_restaurant_data(num_records=50):,,,1860,25.95,40,Tourist
+def,main():,,,39158,10.46,28,Student
